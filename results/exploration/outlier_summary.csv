@@ -1,0 +1,9 @@
+variable,n,z_gt_3,iqr_1_5,outside_1_99_pct,scale,isolation_forest
+gdp_pps,5973,17.0,118.0,144.0,log,
+gdp_eur,5973,26.0,117.0,149.0,log,
+real_gdp,6100,86.0,264.0,142.0,log,
+employment,5637,46.0,137.0,146.0,raw,
+youth_unemployment,3864,19.0,50.0,97.0,raw,
+population,6006,75.0,156.0,150.0,log,
+household_income,5369,25.0,98.0,119.0,log,
+multivariate: log_gdp_pps+employment+youth_unemployment+log_population,3779,,,,standardised per year,38.0

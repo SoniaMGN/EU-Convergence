@@ -1,0 +1,8 @@
+variable,missing_pct,over_3pct_rule_of_thumb
+gdp_pps,2.081967213114755,False
+gdp_eur,2.081967213114755,False
+real_gdp,0.0,False
+employment,7.590163934426231,True
+youth_unemployment,36.65573770491803,True
+population,1.5409836065573779,False
+household_income,11.983606557377048,True

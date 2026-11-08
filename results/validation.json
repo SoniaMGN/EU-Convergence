@@ -1,0 +1,68 @@
+[
+  {
+    "plan_item": "4",
+    "check": "unique region-year keys",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "plan_item": "4",
+    "check": "panel has exactly 244 x 25 rows",
+    "passed": true,
+    "detail": "6100 rows, 244 regions"
+  },
+  {
+    "plan_item": "5",
+    "check": "GDP, population (and income) positive",
+    "passed": true,
+    "detail": "{'gdp_pps': 0, 'gdp_eur': 0, 'population': 0, 'real_gdp': 0, 'household_income': 0}"
+  },
+  {
+    "plan_item": "5",
+    "check": "rates lie within 0-100",
+    "passed": true,
+    "detail": "{'employment': 0, 'youth_unemployment': 0}"
+  },
+  {
+    "plan_item": "-",
+    "check": "no +-inf or sentinel codes (-1, -99, -999, -9999)",
+    "passed": true,
+    "detail": "inf=0, sentinel=0"
+  },
+  {
+    "plan_item": "6",
+    "check": "real GDP index equals 100 in 2020",
+    "passed": true,
+    "detail": "244 regions, max deviation 0.000"
+  },
+  {
+    "plan_item": "14",
+    "check": "reconstructed EU27 index within 1.5 points of published index",
+    "passed": true,
+    "detail": "5973 region-years, max deviation 1.11"
+  },
+  {
+    "plan_item": "-",
+    "check": "universe has 244 regions",
+    "passed": true,
+    "detail": "244"
+  },
+  {
+    "plan_item": "-",
+    "check": "every balanced panel is complete (no missing, every year present)",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "plan_item": "-",
+    "check": "raw files match manifest SHA-256 (never edited)",
+    "passed": true,
+    "detail": "10 files"
+  },
+  {
+    "plan_item": "-",
+    "check": "every dataset in settings.yaml is in the manifest",
+    "passed": true,
+    "detail": ""
+  }
+]

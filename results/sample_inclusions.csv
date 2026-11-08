@@ -1,0 +1,1953 @@
+panel,geo,country,name,included,n_missing_years,missing_years
+main,AT11,AT,Burgenland,True,0,
+main,AT12,AT,Niederösterreich,True,0,
+main,AT13,AT,Wien,True,0,
+main,AT21,AT,Kärnten,True,0,
+main,AT22,AT,Steiermark,True,0,
+main,AT31,AT,Oberösterreich,True,0,
+main,AT32,AT,Salzburg,True,0,
+main,AT33,AT,Tirol,True,0,
+main,AT34,AT,Vorarlberg,True,0,
+main,BE10,BE,Région de Bruxelles-Capitale/ Brussels Hoofdstedelijk Gewest,False,3,gdp_pps:2000-2002
+main,BE21,BE,Prov. Antwerpen,False,3,gdp_pps:2000-2002
+main,BE22,BE,Prov. Limburg (BE),False,3,gdp_pps:2000-2002
+main,BE23,BE,Prov. Oost-Vlaanderen,False,3,gdp_pps:2000-2002
+main,BE24,BE,Prov. Vlaams-Brabant,False,3,gdp_pps:2000-2002
+main,BE25,BE,Prov. West-Vlaanderen,False,3,gdp_pps:2000-2002
+main,BE31,BE,Prov. Brabant wallon,False,3,gdp_pps:2000-2002
+main,BE32,BE,Prov. Hainaut,False,3,gdp_pps:2000-2002
+main,BE33,BE,Prov. Liège,False,3,gdp_pps:2000-2002
+main,BE34,BE,Prov. Luxembourg (BE),False,3,gdp_pps:2000-2002
+main,BE35,BE,Prov. Namur,False,3,gdp_pps:2000-2002
+main,BG31,BG,Severozapaden,True,0,
+main,BG32,BG,Severen tsentralen,True,0,
+main,BG33,BG,Severoiztochen,True,0,
+main,BG34,BG,Yugoiztochen,True,0,
+main,BG41,BG,Yugozapaden,True,0,
+main,BG42,BG,Yuzhen tsentralen,True,0,
+main,CY00,CY,Kýpros,True,0,
+main,CZ01,CZ,Praha,True,0,
+main,CZ02,CZ,Střední Čechy,True,0,
+main,CZ03,CZ,Jihozápad,True,0,
+main,CZ04,CZ,Severozápad,True,0,
+main,CZ05,CZ,Severovýchod,True,0,
+main,CZ06,CZ,Jihovýchod,True,0,
+main,CZ07,CZ,Střední Morava,True,0,
+main,CZ08,CZ,Moravskoslezsko,True,0,
+main,DE11,DE,Stuttgart,True,0,
+main,DE12,DE,Karlsruhe,True,0,
+main,DE13,DE,Freiburg,True,0,
+main,DE14,DE,Tübingen,True,0,
+main,DE21,DE,Oberbayern,True,0,
+main,DE22,DE,Niederbayern,True,0,
+main,DE23,DE,Oberpfalz,True,0,
+main,DE24,DE,Oberfranken,True,0,
+main,DE25,DE,Mittelfranken,True,0,
+main,DE26,DE,Unterfranken,True,0,
+main,DE27,DE,Schwaben,True,0,
+main,DE30,DE,Berlin,True,0,
+main,DE40,DE,Brandenburg,True,0,
+main,DE50,DE,Bremen,True,0,
+main,DE60,DE,Hamburg,True,0,
+main,DE71,DE,Darmstadt,True,0,
+main,DE72,DE,Gießen,True,0,
+main,DE73,DE,Kassel,True,0,
+main,DE80,DE,Mecklenburg-Vorpommern,True,0,
+main,DE91,DE,Braunschweig,True,0,
+main,DE92,DE,Hannover,True,0,
+main,DE93,DE,Lüneburg,True,0,
+main,DE94,DE,Weser-Ems,True,0,
+main,DEA1,DE,Düsseldorf,True,0,
+main,DEA2,DE,Köln,True,0,
+main,DEA3,DE,Münster,True,0,
+main,DEA4,DE,Detmold,True,0,
+main,DEA5,DE,Arnsberg,True,0,
+main,DEB1,DE,Koblenz,True,0,
+main,DEB2,DE,Trier,True,0,
+main,DEB3,DE,Rheinhessen-Pfalz,True,0,
+main,DEC0,DE,Saarland,True,0,
+main,DED2,DE,Dresden,True,0,
+main,DED4,DE,Chemnitz,True,0,
+main,DED5,DE,Leipzig,True,0,
+main,DEE0,DE,Sachsen-Anhalt,True,0,
+main,DEF0,DE,Schleswig-Holstein,True,0,
+main,DEG0,DE,Thüringen,True,0,
+main,DK01,DK,Hovedstaden,True,0,
+main,DK02,DK,Sjælland,True,0,
+main,DK03,DK,Syddanmark,True,0,
+main,DK04,DK,Midtjylland,True,0,
+main,DK05,DK,Nordjylland,True,0,
+main,EE00,EE,Eesti,True,0,
+main,EL30,EL,Attiki,True,0,
+main,EL41,EL,Voreio Aigaio,True,0,
+main,EL42,EL,Notio Aigaio,True,0,
+main,EL43,EL,Kriti,True,0,
+main,EL51,EL,"Anatoliki Makedonia, Thraki",True,0,
+main,EL52,EL,Kentriki Makedonia,True,0,
+main,EL53,EL,Dytiki Makedonia,True,0,
+main,EL54,EL,Ipeiros,True,0,
+main,EL61,EL,Thessalia,True,0,
+main,EL62,EL,Ionia Nisia,True,0,
+main,EL63,EL,Dytiki Elláda,True,0,
+main,EL64,EL,Sterea Elláda,True,0,
+main,EL65,EL,Peloponnisos,True,0,
+main,ES11,ES,Galicia,True,0,
+main,ES12,ES,Principado de Asturias,True,0,
+main,ES13,ES,Cantabria,True,0,
+main,ES21,ES,País Vasco,True,0,
+main,ES22,ES,Comunidad Foral de Navarra,True,0,
+main,ES23,ES,La Rioja,True,0,
+main,ES24,ES,Aragón,True,0,
+main,ES30,ES,Comunidad de Madrid,True,0,
+main,ES41,ES,Castilla y León,True,0,
+main,ES42,ES,Castilla-La Mancha,True,0,
+main,ES43,ES,Extremadura,True,0,
+main,ES51,ES,Cataluña,True,0,
+main,ES52,ES,Comunitat Valenciana ,True,0,
+main,ES53,ES,Illes Balears,True,0,
+main,ES61,ES,Andalucía,True,0,
+main,ES62,ES,Región de Murcia,True,0,
+main,ES63,ES,Ciudad de Ceuta,True,0,
+main,ES64,ES,Ciudad de Melilla,True,0,
+main,ES70,ES,Canarias,True,0,
+main,FI19,FI,Länsi-Suomi,True,0,
+main,FI1B,FI,Helsinki-Uusimaa,True,0,
+main,FI1C,FI,Etelä-Suomi,True,0,
+main,FI1D,FI,Pohjois- ja Itä-Suomi,True,0,
+main,FI20,FI,Åland,True,0,
+main,FR10,FR,Ile-de-France,True,0,
+main,FRB0,FR,Centre — Val de Loire,True,0,
+main,FRC1,FR,Bourgogne,True,0,
+main,FRC2,FR,Franche-Comté,True,0,
+main,FRD1,FR,Basse-Normandie ,True,0,
+main,FRD2,FR,Haute-Normandie ,True,0,
+main,FRE1,FR,Nord-Pas de Calais,True,0,
+main,FRE2,FR,Picardie,True,0,
+main,FRF1,FR,Alsace,True,0,
+main,FRF2,FR,Champagne-Ardenne,True,0,
+main,FRF3,FR,Lorraine,True,0,
+main,FRG0,FR,Pays de la Loire,True,0,
+main,FRH0,FR,Bretagne,True,0,
+main,FRI1,FR,Aquitaine,True,0,
+main,FRI2,FR,Limousin,True,0,
+main,FRI3,FR,Poitou-Charentes,True,0,
+main,FRJ1,FR,Languedoc-Roussillon,True,0,
+main,FRJ2,FR,Midi-Pyrénées,True,0,
+main,FRK1,FR,Auvergne,True,0,
+main,FRK2,FR,Rhône-Alpes,True,0,
+main,FRL0,FR,Provence-Alpes-Côte d’Azur,True,0,
+main,FRM0,FR,Corse,True,0,
+main,FRY1,FR,Guadeloupe,True,0,
+main,FRY2,FR,Martinique ,True,0,
+main,FRY3,FR,Guyane,True,0,
+main,FRY4,FR,La Réunion ,True,0,
+main,FRY5,FR,Mayotte,False,28,gdp_pps:2000-2013;population:2000-2013
+main,HR02,HR,Panonska Hrvatska,True,0,
+main,HR03,HR,Jadranska Hrvatska,True,0,
+main,HR05,HR,Grad Zagreb,True,0,
+main,HR06,HR,Sjeverna Hrvatska,True,0,
+main,HU11,HU,Budapest,True,0,
+main,HU12,HU,Pest,True,0,
+main,HU21,HU,Közép-Dunántúl,True,0,
+main,HU22,HU,Nyugat-Dunántúl,True,0,
+main,HU23,HU,Dél-Dunántúl,True,0,
+main,HU31,HU,Észak-Magyarország,True,0,
+main,HU32,HU,Észak-Alföld,True,0,
+main,HU33,HU,Dél-Alföld,True,0,
+main,IE04,IE,Northern and Western,True,0,
+main,IE05,IE,Southern,True,0,
+main,IE06,IE,Eastern and Midland,True,0,
+main,ITC1,IT,Piemonte,True,0,
+main,ITC2,IT,Valle d’Aosta/Vallée d’Aoste,True,0,
+main,ITC3,IT,Liguria,True,0,
+main,ITC4,IT,Lombardia,True,0,
+main,ITF1,IT,Abruzzo,True,0,
+main,ITF2,IT,Molise,True,0,
+main,ITF3,IT,Campania,True,0,
+main,ITF4,IT,Puglia,True,0,
+main,ITF5,IT,Basilicata,True,0,
+main,ITF6,IT,Calabria,True,0,
+main,ITG1,IT,Sicilia,True,0,
+main,ITG2,IT,Sardegna,True,0,
+main,ITH1,IT,Provincia Autonoma di Bolzano/Bozen,True,0,
+main,ITH2,IT,Provincia Autonoma di Trento,True,0,
+main,ITH3,IT,Veneto,True,0,
+main,ITH4,IT,Friuli-Venezia Giulia,True,0,
+main,ITH5,IT,Emilia-Romagna,True,0,
+main,ITI1,IT,Toscana,True,0,
+main,ITI2,IT,Umbria,True,0,
+main,ITI3,IT,Marche,True,0,
+main,ITI4,IT,Lazio,True,0,
+main,LT01,LT,Sostinės regionas,True,0,
+main,LT02,LT,Vidurio ir vakarų Lietuvos regionas ,True,0,
+main,LU00,LU,Luxembourg,True,0,
+main,LV00,LV,Latvija,True,0,
+main,MT00,MT,Malta,True,0,
+main,NL11,NL,Groningen,True,0,
+main,NL12,NL,Friesland (NL),True,0,
+main,NL13,NL,Drenthe,True,0,
+main,NL21,NL,Overijssel,True,0,
+main,NL22,NL,Gelderland,True,0,
+main,NL23,NL,Flevoland,True,0,
+main,NL32,NL,Noord-Holland,True,0,
+main,NL34,NL,Zeeland,True,0,
+main,NL35,NL,Utrecht,True,0,
+main,NL36,NL,Zuid-Holland,True,0,
+main,NL41,NL,Noord-Brabant,True,0,
+main,NL42,NL,Limburg (NL),True,0,
+main,PL21,PL,Małopolskie,True,0,
+main,PL22,PL,Śląskie,True,0,
+main,PL41,PL,Wielkopolskie,True,0,
+main,PL42,PL,Zachodniopomorskie,True,0,
+main,PL43,PL,Lubuskie,True,0,
+main,PL51,PL,Dolnośląskie,True,0,
+main,PL52,PL,Opolskie,True,0,
+main,PL61,PL,Kujawsko-pomorskie,True,0,
+main,PL62,PL,Warmińsko-mazurskie,True,0,
+main,PL63,PL,Pomorskie,True,0,
+main,PL71,PL,Łódzkie,True,0,
+main,PL72,PL,Świętokrzyskie,True,0,
+main,PL81,PL,Lubelskie,True,0,
+main,PL82,PL,Podkarpackie,True,0,
+main,PL84,PL,Podlaskie,True,0,
+main,PL91,PL,Warszawski stołeczny,True,0,
+main,PL92,PL,Mazowiecki regionalny,True,0,
+main,PT11,PT,Norte,True,0,
+main,PT15,PT,Algarve,True,0,
+main,PT19,PT,Centro (PT),True,0,
+main,PT1A,PT,Grande Lisboa,True,0,
+main,PT1B,PT,Península de Setúbal,True,0,
+main,PT1C,PT,Alentejo,True,0,
+main,PT1D,PT,Oeste e Vale do Tejo,True,0,
+main,PT20,PT,Região Autónoma dos Açores,True,0,
+main,PT30,PT,Região Autónoma da Madeira,True,0,
+main,RO11,RO,Nord-Vest,False,20,gdp_pps:2002-2011;population:2002-2011
+main,RO12,RO,Centru,False,20,gdp_pps:2002-2011;population:2002-2011
+main,RO21,RO,Nord-Est,False,20,gdp_pps:2002-2011;population:2002-2011
+main,RO22,RO,Sud-Est,False,20,gdp_pps:2002-2011;population:2002-2011
+main,RO31,RO,Sud-Muntenia,False,20,gdp_pps:2002-2011;population:2002-2011
+main,RO32,RO,Bucureşti-Ilfov,False,20,gdp_pps:2002-2011;population:2002-2011
+main,RO41,RO,Sud-Vest Oltenia,False,20,gdp_pps:2002-2011;population:2002-2011
+main,RO42,RO,Vest,False,20,gdp_pps:2002-2011;population:2002-2011
+main,SE11,SE,Stockholm,True,0,
+main,SE12,SE,Östra Mellansverige,True,0,
+main,SE21,SE,Småland med öarna,True,0,
+main,SE22,SE,Sydsverige,True,0,
+main,SE23,SE,Västsverige,True,0,
+main,SE31,SE,Norra Mellansverige,True,0,
+main,SE32,SE,Mellersta Norrland,True,0,
+main,SE33,SE,Övre Norrland,True,0,
+main,SI03,SI,Vzhodna Slovenija,True,0,
+main,SI04,SI,Zahodna Slovenija,True,0,
+main,SK01,SK,Bratislavský kraj,True,0,
+main,SK02,SK,Západné Slovensko,True,0,
+main,SK03,SK,Stredné Slovensko,True,0,
+main,SK04,SK,Východné Slovensko,True,0,
+gdp_2010_2024,AT11,AT,Burgenland,True,0,
+gdp_2010_2024,AT12,AT,Niederösterreich,True,0,
+gdp_2010_2024,AT13,AT,Wien,True,0,
+gdp_2010_2024,AT21,AT,Kärnten,True,0,
+gdp_2010_2024,AT22,AT,Steiermark,True,0,
+gdp_2010_2024,AT31,AT,Oberösterreich,True,0,
+gdp_2010_2024,AT32,AT,Salzburg,True,0,
+gdp_2010_2024,AT33,AT,Tirol,True,0,
+gdp_2010_2024,AT34,AT,Vorarlberg,True,0,
+gdp_2010_2024,BE10,BE,Région de Bruxelles-Capitale/ Brussels Hoofdstedelijk Gewest,True,0,
+gdp_2010_2024,BE21,BE,Prov. Antwerpen,True,0,
+gdp_2010_2024,BE22,BE,Prov. Limburg (BE),True,0,
+gdp_2010_2024,BE23,BE,Prov. Oost-Vlaanderen,True,0,
+gdp_2010_2024,BE24,BE,Prov. Vlaams-Brabant,True,0,
+gdp_2010_2024,BE25,BE,Prov. West-Vlaanderen,True,0,
+gdp_2010_2024,BE31,BE,Prov. Brabant wallon,True,0,
+gdp_2010_2024,BE32,BE,Prov. Hainaut,True,0,
+gdp_2010_2024,BE33,BE,Prov. Liège,True,0,
+gdp_2010_2024,BE34,BE,Prov. Luxembourg (BE),True,0,
+gdp_2010_2024,BE35,BE,Prov. Namur,True,0,
+gdp_2010_2024,BG31,BG,Severozapaden,True,0,
+gdp_2010_2024,BG32,BG,Severen tsentralen,True,0,
+gdp_2010_2024,BG33,BG,Severoiztochen,True,0,
+gdp_2010_2024,BG34,BG,Yugoiztochen,True,0,
+gdp_2010_2024,BG41,BG,Yugozapaden,True,0,
+gdp_2010_2024,BG42,BG,Yuzhen tsentralen,True,0,
+gdp_2010_2024,CY00,CY,Kýpros,True,0,
+gdp_2010_2024,CZ01,CZ,Praha,True,0,
+gdp_2010_2024,CZ02,CZ,Střední Čechy,True,0,
+gdp_2010_2024,CZ03,CZ,Jihozápad,True,0,
+gdp_2010_2024,CZ04,CZ,Severozápad,True,0,
+gdp_2010_2024,CZ05,CZ,Severovýchod,True,0,
+gdp_2010_2024,CZ06,CZ,Jihovýchod,True,0,
+gdp_2010_2024,CZ07,CZ,Střední Morava,True,0,
+gdp_2010_2024,CZ08,CZ,Moravskoslezsko,True,0,
+gdp_2010_2024,DE11,DE,Stuttgart,True,0,
+gdp_2010_2024,DE12,DE,Karlsruhe,True,0,
+gdp_2010_2024,DE13,DE,Freiburg,True,0,
+gdp_2010_2024,DE14,DE,Tübingen,True,0,
+gdp_2010_2024,DE21,DE,Oberbayern,True,0,
+gdp_2010_2024,DE22,DE,Niederbayern,True,0,
+gdp_2010_2024,DE23,DE,Oberpfalz,True,0,
+gdp_2010_2024,DE24,DE,Oberfranken,True,0,
+gdp_2010_2024,DE25,DE,Mittelfranken,True,0,
+gdp_2010_2024,DE26,DE,Unterfranken,True,0,
+gdp_2010_2024,DE27,DE,Schwaben,True,0,
+gdp_2010_2024,DE30,DE,Berlin,True,0,
+gdp_2010_2024,DE40,DE,Brandenburg,True,0,
+gdp_2010_2024,DE50,DE,Bremen,True,0,
+gdp_2010_2024,DE60,DE,Hamburg,True,0,
+gdp_2010_2024,DE71,DE,Darmstadt,True,0,
+gdp_2010_2024,DE72,DE,Gießen,True,0,
+gdp_2010_2024,DE73,DE,Kassel,True,0,
+gdp_2010_2024,DE80,DE,Mecklenburg-Vorpommern,True,0,
+gdp_2010_2024,DE91,DE,Braunschweig,True,0,
+gdp_2010_2024,DE92,DE,Hannover,True,0,
+gdp_2010_2024,DE93,DE,Lüneburg,True,0,
+gdp_2010_2024,DE94,DE,Weser-Ems,True,0,
+gdp_2010_2024,DEA1,DE,Düsseldorf,True,0,
+gdp_2010_2024,DEA2,DE,Köln,True,0,
+gdp_2010_2024,DEA3,DE,Münster,True,0,
+gdp_2010_2024,DEA4,DE,Detmold,True,0,
+gdp_2010_2024,DEA5,DE,Arnsberg,True,0,
+gdp_2010_2024,DEB1,DE,Koblenz,True,0,
+gdp_2010_2024,DEB2,DE,Trier,True,0,
+gdp_2010_2024,DEB3,DE,Rheinhessen-Pfalz,True,0,
+gdp_2010_2024,DEC0,DE,Saarland,True,0,
+gdp_2010_2024,DED2,DE,Dresden,True,0,
+gdp_2010_2024,DED4,DE,Chemnitz,True,0,
+gdp_2010_2024,DED5,DE,Leipzig,True,0,
+gdp_2010_2024,DEE0,DE,Sachsen-Anhalt,True,0,
+gdp_2010_2024,DEF0,DE,Schleswig-Holstein,True,0,
+gdp_2010_2024,DEG0,DE,Thüringen,True,0,
+gdp_2010_2024,DK01,DK,Hovedstaden,True,0,
+gdp_2010_2024,DK02,DK,Sjælland,True,0,
+gdp_2010_2024,DK03,DK,Syddanmark,True,0,
+gdp_2010_2024,DK04,DK,Midtjylland,True,0,
+gdp_2010_2024,DK05,DK,Nordjylland,True,0,
+gdp_2010_2024,EE00,EE,Eesti,True,0,
+gdp_2010_2024,EL30,EL,Attiki,True,0,
+gdp_2010_2024,EL41,EL,Voreio Aigaio,True,0,
+gdp_2010_2024,EL42,EL,Notio Aigaio,True,0,
+gdp_2010_2024,EL43,EL,Kriti,True,0,
+gdp_2010_2024,EL51,EL,"Anatoliki Makedonia, Thraki",True,0,
+gdp_2010_2024,EL52,EL,Kentriki Makedonia,True,0,
+gdp_2010_2024,EL53,EL,Dytiki Makedonia,True,0,
+gdp_2010_2024,EL54,EL,Ipeiros,True,0,
+gdp_2010_2024,EL61,EL,Thessalia,True,0,
+gdp_2010_2024,EL62,EL,Ionia Nisia,True,0,
+gdp_2010_2024,EL63,EL,Dytiki Elláda,True,0,
+gdp_2010_2024,EL64,EL,Sterea Elláda,True,0,
+gdp_2010_2024,EL65,EL,Peloponnisos,True,0,
+gdp_2010_2024,ES11,ES,Galicia,True,0,
+gdp_2010_2024,ES12,ES,Principado de Asturias,True,0,
+gdp_2010_2024,ES13,ES,Cantabria,True,0,
+gdp_2010_2024,ES21,ES,País Vasco,True,0,
+gdp_2010_2024,ES22,ES,Comunidad Foral de Navarra,True,0,
+gdp_2010_2024,ES23,ES,La Rioja,True,0,
+gdp_2010_2024,ES24,ES,Aragón,True,0,
+gdp_2010_2024,ES30,ES,Comunidad de Madrid,True,0,
+gdp_2010_2024,ES41,ES,Castilla y León,True,0,
+gdp_2010_2024,ES42,ES,Castilla-La Mancha,True,0,
+gdp_2010_2024,ES43,ES,Extremadura,True,0,
+gdp_2010_2024,ES51,ES,Cataluña,True,0,
+gdp_2010_2024,ES52,ES,Comunitat Valenciana ,True,0,
+gdp_2010_2024,ES53,ES,Illes Balears,True,0,
+gdp_2010_2024,ES61,ES,Andalucía,True,0,
+gdp_2010_2024,ES62,ES,Región de Murcia,True,0,
+gdp_2010_2024,ES63,ES,Ciudad de Ceuta,True,0,
+gdp_2010_2024,ES64,ES,Ciudad de Melilla,True,0,
+gdp_2010_2024,ES70,ES,Canarias,True,0,
+gdp_2010_2024,FI19,FI,Länsi-Suomi,True,0,
+gdp_2010_2024,FI1B,FI,Helsinki-Uusimaa,True,0,
+gdp_2010_2024,FI1C,FI,Etelä-Suomi,True,0,
+gdp_2010_2024,FI1D,FI,Pohjois- ja Itä-Suomi,True,0,
+gdp_2010_2024,FI20,FI,Åland,True,0,
+gdp_2010_2024,FR10,FR,Ile-de-France,True,0,
+gdp_2010_2024,FRB0,FR,Centre — Val de Loire,True,0,
+gdp_2010_2024,FRC1,FR,Bourgogne,True,0,
+gdp_2010_2024,FRC2,FR,Franche-Comté,True,0,
+gdp_2010_2024,FRD1,FR,Basse-Normandie ,True,0,
+gdp_2010_2024,FRD2,FR,Haute-Normandie ,True,0,
+gdp_2010_2024,FRE1,FR,Nord-Pas de Calais,True,0,
+gdp_2010_2024,FRE2,FR,Picardie,True,0,
+gdp_2010_2024,FRF1,FR,Alsace,True,0,
+gdp_2010_2024,FRF2,FR,Champagne-Ardenne,True,0,
+gdp_2010_2024,FRF3,FR,Lorraine,True,0,
+gdp_2010_2024,FRG0,FR,Pays de la Loire,True,0,
+gdp_2010_2024,FRH0,FR,Bretagne,True,0,
+gdp_2010_2024,FRI1,FR,Aquitaine,True,0,
+gdp_2010_2024,FRI2,FR,Limousin,True,0,
+gdp_2010_2024,FRI3,FR,Poitou-Charentes,True,0,
+gdp_2010_2024,FRJ1,FR,Languedoc-Roussillon,True,0,
+gdp_2010_2024,FRJ2,FR,Midi-Pyrénées,True,0,
+gdp_2010_2024,FRK1,FR,Auvergne,True,0,
+gdp_2010_2024,FRK2,FR,Rhône-Alpes,True,0,
+gdp_2010_2024,FRL0,FR,Provence-Alpes-Côte d’Azur,True,0,
+gdp_2010_2024,FRM0,FR,Corse,True,0,
+gdp_2010_2024,FRY1,FR,Guadeloupe,True,0,
+gdp_2010_2024,FRY2,FR,Martinique ,True,0,
+gdp_2010_2024,FRY3,FR,Guyane,True,0,
+gdp_2010_2024,FRY4,FR,La Réunion ,True,0,
+gdp_2010_2024,FRY5,FR,Mayotte,False,8,gdp_pps:2010-2013;population:2010-2013
+gdp_2010_2024,HR02,HR,Panonska Hrvatska,True,0,
+gdp_2010_2024,HR03,HR,Jadranska Hrvatska,True,0,
+gdp_2010_2024,HR05,HR,Grad Zagreb,True,0,
+gdp_2010_2024,HR06,HR,Sjeverna Hrvatska,True,0,
+gdp_2010_2024,HU11,HU,Budapest,True,0,
+gdp_2010_2024,HU12,HU,Pest,True,0,
+gdp_2010_2024,HU21,HU,Közép-Dunántúl,True,0,
+gdp_2010_2024,HU22,HU,Nyugat-Dunántúl,True,0,
+gdp_2010_2024,HU23,HU,Dél-Dunántúl,True,0,
+gdp_2010_2024,HU31,HU,Észak-Magyarország,True,0,
+gdp_2010_2024,HU32,HU,Észak-Alföld,True,0,
+gdp_2010_2024,HU33,HU,Dél-Alföld,True,0,
+gdp_2010_2024,IE04,IE,Northern and Western,True,0,
+gdp_2010_2024,IE05,IE,Southern,True,0,
+gdp_2010_2024,IE06,IE,Eastern and Midland,True,0,
+gdp_2010_2024,ITC1,IT,Piemonte,True,0,
+gdp_2010_2024,ITC2,IT,Valle d’Aosta/Vallée d’Aoste,True,0,
+gdp_2010_2024,ITC3,IT,Liguria,True,0,
+gdp_2010_2024,ITC4,IT,Lombardia,True,0,
+gdp_2010_2024,ITF1,IT,Abruzzo,True,0,
+gdp_2010_2024,ITF2,IT,Molise,True,0,
+gdp_2010_2024,ITF3,IT,Campania,True,0,
+gdp_2010_2024,ITF4,IT,Puglia,True,0,
+gdp_2010_2024,ITF5,IT,Basilicata,True,0,
+gdp_2010_2024,ITF6,IT,Calabria,True,0,
+gdp_2010_2024,ITG1,IT,Sicilia,True,0,
+gdp_2010_2024,ITG2,IT,Sardegna,True,0,
+gdp_2010_2024,ITH1,IT,Provincia Autonoma di Bolzano/Bozen,True,0,
+gdp_2010_2024,ITH2,IT,Provincia Autonoma di Trento,True,0,
+gdp_2010_2024,ITH3,IT,Veneto,True,0,
+gdp_2010_2024,ITH4,IT,Friuli-Venezia Giulia,True,0,
+gdp_2010_2024,ITH5,IT,Emilia-Romagna,True,0,
+gdp_2010_2024,ITI1,IT,Toscana,True,0,
+gdp_2010_2024,ITI2,IT,Umbria,True,0,
+gdp_2010_2024,ITI3,IT,Marche,True,0,
+gdp_2010_2024,ITI4,IT,Lazio,True,0,
+gdp_2010_2024,LT01,LT,Sostinės regionas,True,0,
+gdp_2010_2024,LT02,LT,Vidurio ir vakarų Lietuvos regionas ,True,0,
+gdp_2010_2024,LU00,LU,Luxembourg,True,0,
+gdp_2010_2024,LV00,LV,Latvija,True,0,
+gdp_2010_2024,MT00,MT,Malta,True,0,
+gdp_2010_2024,NL11,NL,Groningen,True,0,
+gdp_2010_2024,NL12,NL,Friesland (NL),True,0,
+gdp_2010_2024,NL13,NL,Drenthe,True,0,
+gdp_2010_2024,NL21,NL,Overijssel,True,0,
+gdp_2010_2024,NL22,NL,Gelderland,True,0,
+gdp_2010_2024,NL23,NL,Flevoland,True,0,
+gdp_2010_2024,NL32,NL,Noord-Holland,True,0,
+gdp_2010_2024,NL34,NL,Zeeland,True,0,
+gdp_2010_2024,NL35,NL,Utrecht,True,0,
+gdp_2010_2024,NL36,NL,Zuid-Holland,True,0,
+gdp_2010_2024,NL41,NL,Noord-Brabant,True,0,
+gdp_2010_2024,NL42,NL,Limburg (NL),True,0,
+gdp_2010_2024,PL21,PL,Małopolskie,True,0,
+gdp_2010_2024,PL22,PL,Śląskie,True,0,
+gdp_2010_2024,PL41,PL,Wielkopolskie,True,0,
+gdp_2010_2024,PL42,PL,Zachodniopomorskie,True,0,
+gdp_2010_2024,PL43,PL,Lubuskie,True,0,
+gdp_2010_2024,PL51,PL,Dolnośląskie,True,0,
+gdp_2010_2024,PL52,PL,Opolskie,True,0,
+gdp_2010_2024,PL61,PL,Kujawsko-pomorskie,True,0,
+gdp_2010_2024,PL62,PL,Warmińsko-mazurskie,True,0,
+gdp_2010_2024,PL63,PL,Pomorskie,True,0,
+gdp_2010_2024,PL71,PL,Łódzkie,True,0,
+gdp_2010_2024,PL72,PL,Świętokrzyskie,True,0,
+gdp_2010_2024,PL81,PL,Lubelskie,True,0,
+gdp_2010_2024,PL82,PL,Podkarpackie,True,0,
+gdp_2010_2024,PL84,PL,Podlaskie,True,0,
+gdp_2010_2024,PL91,PL,Warszawski stołeczny,True,0,
+gdp_2010_2024,PL92,PL,Mazowiecki regionalny,True,0,
+gdp_2010_2024,PT11,PT,Norte,True,0,
+gdp_2010_2024,PT15,PT,Algarve,True,0,
+gdp_2010_2024,PT19,PT,Centro (PT),True,0,
+gdp_2010_2024,PT1A,PT,Grande Lisboa,True,0,
+gdp_2010_2024,PT1B,PT,Península de Setúbal,True,0,
+gdp_2010_2024,PT1C,PT,Alentejo,True,0,
+gdp_2010_2024,PT1D,PT,Oeste e Vale do Tejo,True,0,
+gdp_2010_2024,PT20,PT,Região Autónoma dos Açores,True,0,
+gdp_2010_2024,PT30,PT,Região Autónoma da Madeira,True,0,
+gdp_2010_2024,RO11,RO,Nord-Vest,False,4,gdp_pps:2010-2011;population:2010-2011
+gdp_2010_2024,RO12,RO,Centru,False,4,gdp_pps:2010-2011;population:2010-2011
+gdp_2010_2024,RO21,RO,Nord-Est,False,4,gdp_pps:2010-2011;population:2010-2011
+gdp_2010_2024,RO22,RO,Sud-Est,False,4,gdp_pps:2010-2011;population:2010-2011
+gdp_2010_2024,RO31,RO,Sud-Muntenia,False,4,gdp_pps:2010-2011;population:2010-2011
+gdp_2010_2024,RO32,RO,Bucureşti-Ilfov,False,4,gdp_pps:2010-2011;population:2010-2011
+gdp_2010_2024,RO41,RO,Sud-Vest Oltenia,False,4,gdp_pps:2010-2011;population:2010-2011
+gdp_2010_2024,RO42,RO,Vest,False,4,gdp_pps:2010-2011;population:2010-2011
+gdp_2010_2024,SE11,SE,Stockholm,True,0,
+gdp_2010_2024,SE12,SE,Östra Mellansverige,True,0,
+gdp_2010_2024,SE21,SE,Småland med öarna,True,0,
+gdp_2010_2024,SE22,SE,Sydsverige,True,0,
+gdp_2010_2024,SE23,SE,Västsverige,True,0,
+gdp_2010_2024,SE31,SE,Norra Mellansverige,True,0,
+gdp_2010_2024,SE32,SE,Mellersta Norrland,True,0,
+gdp_2010_2024,SE33,SE,Övre Norrland,True,0,
+gdp_2010_2024,SI03,SI,Vzhodna Slovenija,True,0,
+gdp_2010_2024,SI04,SI,Zahodna Slovenija,True,0,
+gdp_2010_2024,SK01,SK,Bratislavský kraj,True,0,
+gdp_2010_2024,SK02,SK,Západné Slovensko,True,0,
+gdp_2010_2024,SK03,SK,Stredné Slovensko,True,0,
+gdp_2010_2024,SK04,SK,Východné Slovensko,True,0,
+gdp_2015_2024,AT11,AT,Burgenland,True,0,
+gdp_2015_2024,AT12,AT,Niederösterreich,True,0,
+gdp_2015_2024,AT13,AT,Wien,True,0,
+gdp_2015_2024,AT21,AT,Kärnten,True,0,
+gdp_2015_2024,AT22,AT,Steiermark,True,0,
+gdp_2015_2024,AT31,AT,Oberösterreich,True,0,
+gdp_2015_2024,AT32,AT,Salzburg,True,0,
+gdp_2015_2024,AT33,AT,Tirol,True,0,
+gdp_2015_2024,AT34,AT,Vorarlberg,True,0,
+gdp_2015_2024,BE10,BE,Région de Bruxelles-Capitale/ Brussels Hoofdstedelijk Gewest,True,0,
+gdp_2015_2024,BE21,BE,Prov. Antwerpen,True,0,
+gdp_2015_2024,BE22,BE,Prov. Limburg (BE),True,0,
+gdp_2015_2024,BE23,BE,Prov. Oost-Vlaanderen,True,0,
+gdp_2015_2024,BE24,BE,Prov. Vlaams-Brabant,True,0,
+gdp_2015_2024,BE25,BE,Prov. West-Vlaanderen,True,0,
+gdp_2015_2024,BE31,BE,Prov. Brabant wallon,True,0,
+gdp_2015_2024,BE32,BE,Prov. Hainaut,True,0,
+gdp_2015_2024,BE33,BE,Prov. Liège,True,0,
+gdp_2015_2024,BE34,BE,Prov. Luxembourg (BE),True,0,
+gdp_2015_2024,BE35,BE,Prov. Namur,True,0,
+gdp_2015_2024,BG31,BG,Severozapaden,True,0,
+gdp_2015_2024,BG32,BG,Severen tsentralen,True,0,
+gdp_2015_2024,BG33,BG,Severoiztochen,True,0,
+gdp_2015_2024,BG34,BG,Yugoiztochen,True,0,
+gdp_2015_2024,BG41,BG,Yugozapaden,True,0,
+gdp_2015_2024,BG42,BG,Yuzhen tsentralen,True,0,
+gdp_2015_2024,CY00,CY,Kýpros,True,0,
+gdp_2015_2024,CZ01,CZ,Praha,True,0,
+gdp_2015_2024,CZ02,CZ,Střední Čechy,True,0,
+gdp_2015_2024,CZ03,CZ,Jihozápad,True,0,
+gdp_2015_2024,CZ04,CZ,Severozápad,True,0,
+gdp_2015_2024,CZ05,CZ,Severovýchod,True,0,
+gdp_2015_2024,CZ06,CZ,Jihovýchod,True,0,
+gdp_2015_2024,CZ07,CZ,Střední Morava,True,0,
+gdp_2015_2024,CZ08,CZ,Moravskoslezsko,True,0,
+gdp_2015_2024,DE11,DE,Stuttgart,True,0,
+gdp_2015_2024,DE12,DE,Karlsruhe,True,0,
+gdp_2015_2024,DE13,DE,Freiburg,True,0,
+gdp_2015_2024,DE14,DE,Tübingen,True,0,
+gdp_2015_2024,DE21,DE,Oberbayern,True,0,
+gdp_2015_2024,DE22,DE,Niederbayern,True,0,
+gdp_2015_2024,DE23,DE,Oberpfalz,True,0,
+gdp_2015_2024,DE24,DE,Oberfranken,True,0,
+gdp_2015_2024,DE25,DE,Mittelfranken,True,0,
+gdp_2015_2024,DE26,DE,Unterfranken,True,0,
+gdp_2015_2024,DE27,DE,Schwaben,True,0,
+gdp_2015_2024,DE30,DE,Berlin,True,0,
+gdp_2015_2024,DE40,DE,Brandenburg,True,0,
+gdp_2015_2024,DE50,DE,Bremen,True,0,
+gdp_2015_2024,DE60,DE,Hamburg,True,0,
+gdp_2015_2024,DE71,DE,Darmstadt,True,0,
+gdp_2015_2024,DE72,DE,Gießen,True,0,
+gdp_2015_2024,DE73,DE,Kassel,True,0,
+gdp_2015_2024,DE80,DE,Mecklenburg-Vorpommern,True,0,
+gdp_2015_2024,DE91,DE,Braunschweig,True,0,
+gdp_2015_2024,DE92,DE,Hannover,True,0,
+gdp_2015_2024,DE93,DE,Lüneburg,True,0,
+gdp_2015_2024,DE94,DE,Weser-Ems,True,0,
+gdp_2015_2024,DEA1,DE,Düsseldorf,True,0,
+gdp_2015_2024,DEA2,DE,Köln,True,0,
+gdp_2015_2024,DEA3,DE,Münster,True,0,
+gdp_2015_2024,DEA4,DE,Detmold,True,0,
+gdp_2015_2024,DEA5,DE,Arnsberg,True,0,
+gdp_2015_2024,DEB1,DE,Koblenz,True,0,
+gdp_2015_2024,DEB2,DE,Trier,True,0,
+gdp_2015_2024,DEB3,DE,Rheinhessen-Pfalz,True,0,
+gdp_2015_2024,DEC0,DE,Saarland,True,0,
+gdp_2015_2024,DED2,DE,Dresden,True,0,
+gdp_2015_2024,DED4,DE,Chemnitz,True,0,
+gdp_2015_2024,DED5,DE,Leipzig,True,0,
+gdp_2015_2024,DEE0,DE,Sachsen-Anhalt,True,0,
+gdp_2015_2024,DEF0,DE,Schleswig-Holstein,True,0,
+gdp_2015_2024,DEG0,DE,Thüringen,True,0,
+gdp_2015_2024,DK01,DK,Hovedstaden,True,0,
+gdp_2015_2024,DK02,DK,Sjælland,True,0,
+gdp_2015_2024,DK03,DK,Syddanmark,True,0,
+gdp_2015_2024,DK04,DK,Midtjylland,True,0,
+gdp_2015_2024,DK05,DK,Nordjylland,True,0,
+gdp_2015_2024,EE00,EE,Eesti,True,0,
+gdp_2015_2024,EL30,EL,Attiki,True,0,
+gdp_2015_2024,EL41,EL,Voreio Aigaio,True,0,
+gdp_2015_2024,EL42,EL,Notio Aigaio,True,0,
+gdp_2015_2024,EL43,EL,Kriti,True,0,
+gdp_2015_2024,EL51,EL,"Anatoliki Makedonia, Thraki",True,0,
+gdp_2015_2024,EL52,EL,Kentriki Makedonia,True,0,
+gdp_2015_2024,EL53,EL,Dytiki Makedonia,True,0,
+gdp_2015_2024,EL54,EL,Ipeiros,True,0,
+gdp_2015_2024,EL61,EL,Thessalia,True,0,
+gdp_2015_2024,EL62,EL,Ionia Nisia,True,0,
+gdp_2015_2024,EL63,EL,Dytiki Elláda,True,0,
+gdp_2015_2024,EL64,EL,Sterea Elláda,True,0,
+gdp_2015_2024,EL65,EL,Peloponnisos,True,0,
+gdp_2015_2024,ES11,ES,Galicia,True,0,
+gdp_2015_2024,ES12,ES,Principado de Asturias,True,0,
+gdp_2015_2024,ES13,ES,Cantabria,True,0,
+gdp_2015_2024,ES21,ES,País Vasco,True,0,
+gdp_2015_2024,ES22,ES,Comunidad Foral de Navarra,True,0,
+gdp_2015_2024,ES23,ES,La Rioja,True,0,
+gdp_2015_2024,ES24,ES,Aragón,True,0,
+gdp_2015_2024,ES30,ES,Comunidad de Madrid,True,0,
+gdp_2015_2024,ES41,ES,Castilla y León,True,0,
+gdp_2015_2024,ES42,ES,Castilla-La Mancha,True,0,
+gdp_2015_2024,ES43,ES,Extremadura,True,0,
+gdp_2015_2024,ES51,ES,Cataluña,True,0,
+gdp_2015_2024,ES52,ES,Comunitat Valenciana ,True,0,
+gdp_2015_2024,ES53,ES,Illes Balears,True,0,
+gdp_2015_2024,ES61,ES,Andalucía,True,0,
+gdp_2015_2024,ES62,ES,Región de Murcia,True,0,
+gdp_2015_2024,ES63,ES,Ciudad de Ceuta,True,0,
+gdp_2015_2024,ES64,ES,Ciudad de Melilla,True,0,
+gdp_2015_2024,ES70,ES,Canarias,True,0,
+gdp_2015_2024,FI19,FI,Länsi-Suomi,True,0,
+gdp_2015_2024,FI1B,FI,Helsinki-Uusimaa,True,0,
+gdp_2015_2024,FI1C,FI,Etelä-Suomi,True,0,
+gdp_2015_2024,FI1D,FI,Pohjois- ja Itä-Suomi,True,0,
+gdp_2015_2024,FI20,FI,Åland,True,0,
+gdp_2015_2024,FR10,FR,Ile-de-France,True,0,
+gdp_2015_2024,FRB0,FR,Centre — Val de Loire,True,0,
+gdp_2015_2024,FRC1,FR,Bourgogne,True,0,
+gdp_2015_2024,FRC2,FR,Franche-Comté,True,0,
+gdp_2015_2024,FRD1,FR,Basse-Normandie ,True,0,
+gdp_2015_2024,FRD2,FR,Haute-Normandie ,True,0,
+gdp_2015_2024,FRE1,FR,Nord-Pas de Calais,True,0,
+gdp_2015_2024,FRE2,FR,Picardie,True,0,
+gdp_2015_2024,FRF1,FR,Alsace,True,0,
+gdp_2015_2024,FRF2,FR,Champagne-Ardenne,True,0,
+gdp_2015_2024,FRF3,FR,Lorraine,True,0,
+gdp_2015_2024,FRG0,FR,Pays de la Loire,True,0,
+gdp_2015_2024,FRH0,FR,Bretagne,True,0,
+gdp_2015_2024,FRI1,FR,Aquitaine,True,0,
+gdp_2015_2024,FRI2,FR,Limousin,True,0,
+gdp_2015_2024,FRI3,FR,Poitou-Charentes,True,0,
+gdp_2015_2024,FRJ1,FR,Languedoc-Roussillon,True,0,
+gdp_2015_2024,FRJ2,FR,Midi-Pyrénées,True,0,
+gdp_2015_2024,FRK1,FR,Auvergne,True,0,
+gdp_2015_2024,FRK2,FR,Rhône-Alpes,True,0,
+gdp_2015_2024,FRL0,FR,Provence-Alpes-Côte d’Azur,True,0,
+gdp_2015_2024,FRM0,FR,Corse,True,0,
+gdp_2015_2024,FRY1,FR,Guadeloupe,True,0,
+gdp_2015_2024,FRY2,FR,Martinique ,True,0,
+gdp_2015_2024,FRY3,FR,Guyane,True,0,
+gdp_2015_2024,FRY4,FR,La Réunion ,True,0,
+gdp_2015_2024,FRY5,FR,Mayotte,True,0,
+gdp_2015_2024,HR02,HR,Panonska Hrvatska,True,0,
+gdp_2015_2024,HR03,HR,Jadranska Hrvatska,True,0,
+gdp_2015_2024,HR05,HR,Grad Zagreb,True,0,
+gdp_2015_2024,HR06,HR,Sjeverna Hrvatska,True,0,
+gdp_2015_2024,HU11,HU,Budapest,True,0,
+gdp_2015_2024,HU12,HU,Pest,True,0,
+gdp_2015_2024,HU21,HU,Közép-Dunántúl,True,0,
+gdp_2015_2024,HU22,HU,Nyugat-Dunántúl,True,0,
+gdp_2015_2024,HU23,HU,Dél-Dunántúl,True,0,
+gdp_2015_2024,HU31,HU,Észak-Magyarország,True,0,
+gdp_2015_2024,HU32,HU,Észak-Alföld,True,0,
+gdp_2015_2024,HU33,HU,Dél-Alföld,True,0,
+gdp_2015_2024,IE04,IE,Northern and Western,True,0,
+gdp_2015_2024,IE05,IE,Southern,True,0,
+gdp_2015_2024,IE06,IE,Eastern and Midland,True,0,
+gdp_2015_2024,ITC1,IT,Piemonte,True,0,
+gdp_2015_2024,ITC2,IT,Valle d’Aosta/Vallée d’Aoste,True,0,
+gdp_2015_2024,ITC3,IT,Liguria,True,0,
+gdp_2015_2024,ITC4,IT,Lombardia,True,0,
+gdp_2015_2024,ITF1,IT,Abruzzo,True,0,
+gdp_2015_2024,ITF2,IT,Molise,True,0,
+gdp_2015_2024,ITF3,IT,Campania,True,0,
+gdp_2015_2024,ITF4,IT,Puglia,True,0,
+gdp_2015_2024,ITF5,IT,Basilicata,True,0,
+gdp_2015_2024,ITF6,IT,Calabria,True,0,
+gdp_2015_2024,ITG1,IT,Sicilia,True,0,
+gdp_2015_2024,ITG2,IT,Sardegna,True,0,
+gdp_2015_2024,ITH1,IT,Provincia Autonoma di Bolzano/Bozen,True,0,
+gdp_2015_2024,ITH2,IT,Provincia Autonoma di Trento,True,0,
+gdp_2015_2024,ITH3,IT,Veneto,True,0,
+gdp_2015_2024,ITH4,IT,Friuli-Venezia Giulia,True,0,
+gdp_2015_2024,ITH5,IT,Emilia-Romagna,True,0,
+gdp_2015_2024,ITI1,IT,Toscana,True,0,
+gdp_2015_2024,ITI2,IT,Umbria,True,0,
+gdp_2015_2024,ITI3,IT,Marche,True,0,
+gdp_2015_2024,ITI4,IT,Lazio,True,0,
+gdp_2015_2024,LT01,LT,Sostinės regionas,True,0,
+gdp_2015_2024,LT02,LT,Vidurio ir vakarų Lietuvos regionas ,True,0,
+gdp_2015_2024,LU00,LU,Luxembourg,True,0,
+gdp_2015_2024,LV00,LV,Latvija,True,0,
+gdp_2015_2024,MT00,MT,Malta,True,0,
+gdp_2015_2024,NL11,NL,Groningen,True,0,
+gdp_2015_2024,NL12,NL,Friesland (NL),True,0,
+gdp_2015_2024,NL13,NL,Drenthe,True,0,
+gdp_2015_2024,NL21,NL,Overijssel,True,0,
+gdp_2015_2024,NL22,NL,Gelderland,True,0,
+gdp_2015_2024,NL23,NL,Flevoland,True,0,
+gdp_2015_2024,NL32,NL,Noord-Holland,True,0,
+gdp_2015_2024,NL34,NL,Zeeland,True,0,
+gdp_2015_2024,NL35,NL,Utrecht,True,0,
+gdp_2015_2024,NL36,NL,Zuid-Holland,True,0,
+gdp_2015_2024,NL41,NL,Noord-Brabant,True,0,
+gdp_2015_2024,NL42,NL,Limburg (NL),True,0,
+gdp_2015_2024,PL21,PL,Małopolskie,True,0,
+gdp_2015_2024,PL22,PL,Śląskie,True,0,
+gdp_2015_2024,PL41,PL,Wielkopolskie,True,0,
+gdp_2015_2024,PL42,PL,Zachodniopomorskie,True,0,
+gdp_2015_2024,PL43,PL,Lubuskie,True,0,
+gdp_2015_2024,PL51,PL,Dolnośląskie,True,0,
+gdp_2015_2024,PL52,PL,Opolskie,True,0,
+gdp_2015_2024,PL61,PL,Kujawsko-pomorskie,True,0,
+gdp_2015_2024,PL62,PL,Warmińsko-mazurskie,True,0,
+gdp_2015_2024,PL63,PL,Pomorskie,True,0,
+gdp_2015_2024,PL71,PL,Łódzkie,True,0,
+gdp_2015_2024,PL72,PL,Świętokrzyskie,True,0,
+gdp_2015_2024,PL81,PL,Lubelskie,True,0,
+gdp_2015_2024,PL82,PL,Podkarpackie,True,0,
+gdp_2015_2024,PL84,PL,Podlaskie,True,0,
+gdp_2015_2024,PL91,PL,Warszawski stołeczny,True,0,
+gdp_2015_2024,PL92,PL,Mazowiecki regionalny,True,0,
+gdp_2015_2024,PT11,PT,Norte,True,0,
+gdp_2015_2024,PT15,PT,Algarve,True,0,
+gdp_2015_2024,PT19,PT,Centro (PT),True,0,
+gdp_2015_2024,PT1A,PT,Grande Lisboa,True,0,
+gdp_2015_2024,PT1B,PT,Península de Setúbal,True,0,
+gdp_2015_2024,PT1C,PT,Alentejo,True,0,
+gdp_2015_2024,PT1D,PT,Oeste e Vale do Tejo,True,0,
+gdp_2015_2024,PT20,PT,Região Autónoma dos Açores,True,0,
+gdp_2015_2024,PT30,PT,Região Autónoma da Madeira,True,0,
+gdp_2015_2024,RO11,RO,Nord-Vest,True,0,
+gdp_2015_2024,RO12,RO,Centru,True,0,
+gdp_2015_2024,RO21,RO,Nord-Est,True,0,
+gdp_2015_2024,RO22,RO,Sud-Est,True,0,
+gdp_2015_2024,RO31,RO,Sud-Muntenia,True,0,
+gdp_2015_2024,RO32,RO,Bucureşti-Ilfov,True,0,
+gdp_2015_2024,RO41,RO,Sud-Vest Oltenia,True,0,
+gdp_2015_2024,RO42,RO,Vest,True,0,
+gdp_2015_2024,SE11,SE,Stockholm,True,0,
+gdp_2015_2024,SE12,SE,Östra Mellansverige,True,0,
+gdp_2015_2024,SE21,SE,Småland med öarna,True,0,
+gdp_2015_2024,SE22,SE,Sydsverige,True,0,
+gdp_2015_2024,SE23,SE,Västsverige,True,0,
+gdp_2015_2024,SE31,SE,Norra Mellansverige,True,0,
+gdp_2015_2024,SE32,SE,Mellersta Norrland,True,0,
+gdp_2015_2024,SE33,SE,Övre Norrland,True,0,
+gdp_2015_2024,SI03,SI,Vzhodna Slovenija,True,0,
+gdp_2015_2024,SI04,SI,Zahodna Slovenija,True,0,
+gdp_2015_2024,SK01,SK,Bratislavský kraj,True,0,
+gdp_2015_2024,SK02,SK,Západné Slovensko,True,0,
+gdp_2015_2024,SK03,SK,Stredné Slovensko,True,0,
+gdp_2015_2024,SK04,SK,Východné Slovensko,True,0,
+employment_2000_2024,AT11,AT,Burgenland,True,0,
+employment_2000_2024,AT12,AT,Niederösterreich,True,0,
+employment_2000_2024,AT13,AT,Wien,True,0,
+employment_2000_2024,AT21,AT,Kärnten,True,0,
+employment_2000_2024,AT22,AT,Steiermark,True,0,
+employment_2000_2024,AT31,AT,Oberösterreich,True,0,
+employment_2000_2024,AT32,AT,Salzburg,True,0,
+employment_2000_2024,AT33,AT,Tirol,True,0,
+employment_2000_2024,AT34,AT,Vorarlberg,True,0,
+employment_2000_2024,BE10,BE,Région de Bruxelles-Capitale/ Brussels Hoofdstedelijk Gewest,True,0,
+employment_2000_2024,BE21,BE,Prov. Antwerpen,True,0,
+employment_2000_2024,BE22,BE,Prov. Limburg (BE),True,0,
+employment_2000_2024,BE23,BE,Prov. Oost-Vlaanderen,True,0,
+employment_2000_2024,BE24,BE,Prov. Vlaams-Brabant,False,4,employment:2021-2024
+employment_2000_2024,BE25,BE,Prov. West-Vlaanderen,True,0,
+employment_2000_2024,BE31,BE,Prov. Brabant wallon,True,0,
+employment_2000_2024,BE32,BE,Prov. Hainaut,True,0,
+employment_2000_2024,BE33,BE,Prov. Liège,True,0,
+employment_2000_2024,BE34,BE,Prov. Luxembourg (BE),True,0,
+employment_2000_2024,BE35,BE,Prov. Namur,True,0,
+employment_2000_2024,BG31,BG,Severozapaden,False,3,employment:2000-2002
+employment_2000_2024,BG32,BG,Severen tsentralen,False,3,employment:2000-2002
+employment_2000_2024,BG33,BG,Severoiztochen,False,3,employment:2000-2002
+employment_2000_2024,BG34,BG,Yugoiztochen,False,3,employment:2000-2002
+employment_2000_2024,BG41,BG,Yugozapaden,True,0,
+employment_2000_2024,BG42,BG,Yuzhen tsentralen,False,3,employment:2000-2002
+employment_2000_2024,CY00,CY,Kýpros,True,0,
+employment_2000_2024,CZ01,CZ,Praha,True,0,
+employment_2000_2024,CZ02,CZ,Střední Čechy,True,0,
+employment_2000_2024,CZ03,CZ,Jihozápad,True,0,
+employment_2000_2024,CZ04,CZ,Severozápad,True,0,
+employment_2000_2024,CZ05,CZ,Severovýchod,True,0,
+employment_2000_2024,CZ06,CZ,Jihovýchod,True,0,
+employment_2000_2024,CZ07,CZ,Střední Morava,True,0,
+employment_2000_2024,CZ08,CZ,Moravskoslezsko,True,0,
+employment_2000_2024,DE11,DE,Stuttgart,True,0,
+employment_2000_2024,DE12,DE,Karlsruhe,True,0,
+employment_2000_2024,DE13,DE,Freiburg,True,0,
+employment_2000_2024,DE14,DE,Tübingen,True,0,
+employment_2000_2024,DE21,DE,Oberbayern,True,0,
+employment_2000_2024,DE22,DE,Niederbayern,True,0,
+employment_2000_2024,DE23,DE,Oberpfalz,True,0,
+employment_2000_2024,DE24,DE,Oberfranken,True,0,
+employment_2000_2024,DE25,DE,Mittelfranken,True,0,
+employment_2000_2024,DE26,DE,Unterfranken,True,0,
+employment_2000_2024,DE27,DE,Schwaben,True,0,
+employment_2000_2024,DE30,DE,Berlin,True,0,
+employment_2000_2024,DE40,DE,Brandenburg,True,0,
+employment_2000_2024,DE50,DE,Bremen,True,0,
+employment_2000_2024,DE60,DE,Hamburg,True,0,
+employment_2000_2024,DE71,DE,Darmstadt,True,0,
+employment_2000_2024,DE72,DE,Gießen,True,0,
+employment_2000_2024,DE73,DE,Kassel,True,0,
+employment_2000_2024,DE80,DE,Mecklenburg-Vorpommern,True,0,
+employment_2000_2024,DE91,DE,Braunschweig,True,0,
+employment_2000_2024,DE92,DE,Hannover,True,0,
+employment_2000_2024,DE93,DE,Lüneburg,True,0,
+employment_2000_2024,DE94,DE,Weser-Ems,True,0,
+employment_2000_2024,DEA1,DE,Düsseldorf,True,0,
+employment_2000_2024,DEA2,DE,Köln,True,0,
+employment_2000_2024,DEA3,DE,Münster,True,0,
+employment_2000_2024,DEA4,DE,Detmold,True,0,
+employment_2000_2024,DEA5,DE,Arnsberg,True,0,
+employment_2000_2024,DEB1,DE,Koblenz,False,2,employment:2000-2001
+employment_2000_2024,DEB2,DE,Trier,False,2,employment:2000-2001
+employment_2000_2024,DEB3,DE,Rheinhessen-Pfalz,False,2,employment:2000-2001
+employment_2000_2024,DEC0,DE,Saarland,True,0,
+employment_2000_2024,DED2,DE,Dresden,True,0,
+employment_2000_2024,DED4,DE,Chemnitz,False,5,employment:2000-2004
+employment_2000_2024,DED5,DE,Leipzig,False,5,employment:2000-2004
+employment_2000_2024,DEE0,DE,Sachsen-Anhalt,True,0,
+employment_2000_2024,DEF0,DE,Schleswig-Holstein,True,0,
+employment_2000_2024,DEG0,DE,Thüringen,True,0,
+employment_2000_2024,DK01,DK,Hovedstaden,False,7,employment:2000-2006
+employment_2000_2024,DK02,DK,Sjælland,False,7,employment:2000-2006
+employment_2000_2024,DK03,DK,Syddanmark,False,7,employment:2000-2006
+employment_2000_2024,DK04,DK,Midtjylland,False,7,employment:2000-2006
+employment_2000_2024,DK05,DK,Nordjylland,False,7,employment:2000-2006
+employment_2000_2024,EE00,EE,Eesti,True,0,
+employment_2000_2024,EL30,EL,Attiki,True,0,
+employment_2000_2024,EL41,EL,Voreio Aigaio,True,0,
+employment_2000_2024,EL42,EL,Notio Aigaio,True,0,
+employment_2000_2024,EL43,EL,Kriti,True,0,
+employment_2000_2024,EL51,EL,"Anatoliki Makedonia, Thraki",True,0,
+employment_2000_2024,EL52,EL,Kentriki Makedonia,True,0,
+employment_2000_2024,EL53,EL,Dytiki Makedonia,True,0,
+employment_2000_2024,EL54,EL,Ipeiros,True,0,
+employment_2000_2024,EL61,EL,Thessalia,True,0,
+employment_2000_2024,EL62,EL,Ionia Nisia,True,0,
+employment_2000_2024,EL63,EL,Dytiki Elláda,True,0,
+employment_2000_2024,EL64,EL,Sterea Elláda,True,0,
+employment_2000_2024,EL65,EL,Peloponnisos,True,0,
+employment_2000_2024,ES11,ES,Galicia,True,0,
+employment_2000_2024,ES12,ES,Principado de Asturias,True,0,
+employment_2000_2024,ES13,ES,Cantabria,True,0,
+employment_2000_2024,ES21,ES,País Vasco,True,0,
+employment_2000_2024,ES22,ES,Comunidad Foral de Navarra,True,0,
+employment_2000_2024,ES23,ES,La Rioja,True,0,
+employment_2000_2024,ES24,ES,Aragón,True,0,
+employment_2000_2024,ES30,ES,Comunidad de Madrid,True,0,
+employment_2000_2024,ES41,ES,Castilla y León,True,0,
+employment_2000_2024,ES42,ES,Castilla-La Mancha,True,0,
+employment_2000_2024,ES43,ES,Extremadura,True,0,
+employment_2000_2024,ES51,ES,Cataluña,True,0,
+employment_2000_2024,ES52,ES,Comunitat Valenciana ,True,0,
+employment_2000_2024,ES53,ES,Illes Balears,True,0,
+employment_2000_2024,ES61,ES,Andalucía,True,0,
+employment_2000_2024,ES62,ES,Región de Murcia,True,0,
+employment_2000_2024,ES63,ES,Ciudad de Ceuta,True,0,
+employment_2000_2024,ES64,ES,Ciudad de Melilla,True,0,
+employment_2000_2024,ES70,ES,Canarias,True,0,
+employment_2000_2024,FI19,FI,Länsi-Suomi,True,0,
+employment_2000_2024,FI1B,FI,Helsinki-Uusimaa,False,5,employment:2000-2004
+employment_2000_2024,FI1C,FI,Etelä-Suomi,False,5,employment:2000-2004
+employment_2000_2024,FI1D,FI,Pohjois- ja Itä-Suomi,False,5,employment:2000-2004
+employment_2000_2024,FI20,FI,Åland,True,0,
+employment_2000_2024,FR10,FR,Ile-de-France,True,0,
+employment_2000_2024,FRB0,FR,Centre — Val de Loire,True,0,
+employment_2000_2024,FRC1,FR,Bourgogne,True,0,
+employment_2000_2024,FRC2,FR,Franche-Comté,True,0,
+employment_2000_2024,FRD1,FR,Basse-Normandie ,True,0,
+employment_2000_2024,FRD2,FR,Haute-Normandie ,True,0,
+employment_2000_2024,FRE1,FR,Nord-Pas de Calais,True,0,
+employment_2000_2024,FRE2,FR,Picardie,True,0,
+employment_2000_2024,FRF1,FR,Alsace,True,0,
+employment_2000_2024,FRF2,FR,Champagne-Ardenne,True,0,
+employment_2000_2024,FRF3,FR,Lorraine,True,0,
+employment_2000_2024,FRG0,FR,Pays de la Loire,True,0,
+employment_2000_2024,FRH0,FR,Bretagne,True,0,
+employment_2000_2024,FRI1,FR,Aquitaine,True,0,
+employment_2000_2024,FRI2,FR,Limousin,True,0,
+employment_2000_2024,FRI3,FR,Poitou-Charentes,True,0,
+employment_2000_2024,FRJ1,FR,Languedoc-Roussillon,True,0,
+employment_2000_2024,FRJ2,FR,Midi-Pyrénées,True,0,
+employment_2000_2024,FRK1,FR,Auvergne,True,0,
+employment_2000_2024,FRK2,FR,Rhône-Alpes,True,0,
+employment_2000_2024,FRL0,FR,Provence-Alpes-Côte d’Azur,True,0,
+employment_2000_2024,FRM0,FR,Corse,False,25,employment:2000-2024
+employment_2000_2024,FRY1,FR,Guadeloupe,False,1,employment:2000
+employment_2000_2024,FRY2,FR,Martinique ,False,1,employment:2000
+employment_2000_2024,FRY3,FR,Guyane,False,1,employment:2000
+employment_2000_2024,FRY4,FR,La Réunion ,False,1,employment:2000
+employment_2000_2024,FRY5,FR,Mayotte,False,17,"employment:2000-2012,2020-2023"
+employment_2000_2024,HR02,HR,Panonska Hrvatska,False,16,employment:2000-2015
+employment_2000_2024,HR03,HR,Jadranska Hrvatska,False,7,employment:2000-2006
+employment_2000_2024,HR05,HR,Grad Zagreb,False,16,employment:2000-2015
+employment_2000_2024,HR06,HR,Sjeverna Hrvatska,False,16,employment:2000-2015
+employment_2000_2024,HU11,HU,Budapest,False,13,employment:2000-2012
+employment_2000_2024,HU12,HU,Pest,False,13,employment:2000-2012
+employment_2000_2024,HU21,HU,Közép-Dunántúl,True,0,
+employment_2000_2024,HU22,HU,Nyugat-Dunántúl,True,0,
+employment_2000_2024,HU23,HU,Dél-Dunántúl,True,0,
+employment_2000_2024,HU31,HU,Észak-Magyarország,True,0,
+employment_2000_2024,HU32,HU,Észak-Alföld,True,0,
+employment_2000_2024,HU33,HU,Dél-Alföld,True,0,
+employment_2000_2024,IE04,IE,Northern and Western,False,12,employment:2000-2011
+employment_2000_2024,IE05,IE,Southern,False,12,employment:2000-2011
+employment_2000_2024,IE06,IE,Eastern and Midland,False,12,employment:2000-2011
+employment_2000_2024,ITC1,IT,Piemonte,True,0,
+employment_2000_2024,ITC2,IT,Valle d’Aosta/Vallée d’Aoste,True,0,
+employment_2000_2024,ITC3,IT,Liguria,True,0,
+employment_2000_2024,ITC4,IT,Lombardia,True,0,
+employment_2000_2024,ITF1,IT,Abruzzo,True,0,
+employment_2000_2024,ITF2,IT,Molise,True,0,
+employment_2000_2024,ITF3,IT,Campania,True,0,
+employment_2000_2024,ITF4,IT,Puglia,True,0,
+employment_2000_2024,ITF5,IT,Basilicata,True,0,
+employment_2000_2024,ITF6,IT,Calabria,True,0,
+employment_2000_2024,ITG1,IT,Sicilia,True,0,
+employment_2000_2024,ITG2,IT,Sardegna,True,0,
+employment_2000_2024,ITH1,IT,Provincia Autonoma di Bolzano/Bozen,True,0,
+employment_2000_2024,ITH2,IT,Provincia Autonoma di Trento,True,0,
+employment_2000_2024,ITH3,IT,Veneto,True,0,
+employment_2000_2024,ITH4,IT,Friuli-Venezia Giulia,True,0,
+employment_2000_2024,ITH5,IT,Emilia-Romagna,False,5,employment:2000-2004
+employment_2000_2024,ITI1,IT,Toscana,True,0,
+employment_2000_2024,ITI2,IT,Umbria,True,0,
+employment_2000_2024,ITI3,IT,Marche,False,5,employment:2000-2004
+employment_2000_2024,ITI4,IT,Lazio,True,0,
+employment_2000_2024,LT01,LT,Sostinės regionas,False,13,employment:2000-2012
+employment_2000_2024,LT02,LT,Vidurio ir vakarų Lietuvos regionas ,False,13,employment:2000-2012
+employment_2000_2024,LU00,LU,Luxembourg,True,0,
+employment_2000_2024,LV00,LV,Latvija,True,0,
+employment_2000_2024,MT00,MT,Malta,True,0,
+employment_2000_2024,NL11,NL,Groningen,True,0,
+employment_2000_2024,NL12,NL,Friesland (NL),True,0,
+employment_2000_2024,NL13,NL,Drenthe,True,0,
+employment_2000_2024,NL21,NL,Overijssel,True,0,
+employment_2000_2024,NL22,NL,Gelderland,True,0,
+employment_2000_2024,NL23,NL,Flevoland,True,0,
+employment_2000_2024,NL32,NL,Noord-Holland,True,0,
+employment_2000_2024,NL34,NL,Zeeland,True,0,
+employment_2000_2024,NL35,NL,Utrecht,False,19,employment:2000-2018
+employment_2000_2024,NL36,NL,Zuid-Holland,False,19,employment:2000-2018
+employment_2000_2024,NL41,NL,Noord-Brabant,True,0,
+employment_2000_2024,NL42,NL,Limburg (NL),True,0,
+employment_2000_2024,PL21,PL,Małopolskie,True,0,
+employment_2000_2024,PL22,PL,Śląskie,True,0,
+employment_2000_2024,PL41,PL,Wielkopolskie,True,0,
+employment_2000_2024,PL42,PL,Zachodniopomorskie,True,0,
+employment_2000_2024,PL43,PL,Lubuskie,True,0,
+employment_2000_2024,PL51,PL,Dolnośląskie,True,0,
+employment_2000_2024,PL52,PL,Opolskie,True,0,
+employment_2000_2024,PL61,PL,Kujawsko-pomorskie,True,0,
+employment_2000_2024,PL62,PL,Warmińsko-mazurskie,True,0,
+employment_2000_2024,PL63,PL,Pomorskie,True,0,
+employment_2000_2024,PL71,PL,Łódzkie,True,0,
+employment_2000_2024,PL72,PL,Świętokrzyskie,True,0,
+employment_2000_2024,PL81,PL,Lubelskie,True,0,
+employment_2000_2024,PL82,PL,Podkarpackie,True,0,
+employment_2000_2024,PL84,PL,Podlaskie,True,0,
+employment_2000_2024,PL91,PL,Warszawski stołeczny,False,13,employment:2000-2012
+employment_2000_2024,PL92,PL,Mazowiecki regionalny,False,13,employment:2000-2012
+employment_2000_2024,PT11,PT,Norte,True,0,
+employment_2000_2024,PT15,PT,Algarve,True,0,
+employment_2000_2024,PT19,PT,Centro (PT),False,19,employment:2000-2018
+employment_2000_2024,PT1A,PT,Grande Lisboa,False,19,employment:2000-2018
+employment_2000_2024,PT1B,PT,Península de Setúbal,False,19,employment:2000-2018
+employment_2000_2024,PT1C,PT,Alentejo,False,19,employment:2000-2018
+employment_2000_2024,PT1D,PT,Oeste e Vale do Tejo,False,19,employment:2000-2018
+employment_2000_2024,PT20,PT,Região Autónoma dos Açores,True,0,
+employment_2000_2024,PT30,PT,Região Autónoma da Madeira,True,0,
+employment_2000_2024,RO11,RO,Nord-Vest,True,0,
+employment_2000_2024,RO12,RO,Centru,True,0,
+employment_2000_2024,RO21,RO,Nord-Est,True,0,
+employment_2000_2024,RO22,RO,Sud-Est,True,0,
+employment_2000_2024,RO31,RO,Sud-Muntenia,True,0,
+employment_2000_2024,RO32,RO,Bucureşti-Ilfov,True,0,
+employment_2000_2024,RO41,RO,Sud-Vest Oltenia,True,0,
+employment_2000_2024,RO42,RO,Vest,True,0,
+employment_2000_2024,SE11,SE,Stockholm,True,0,
+employment_2000_2024,SE12,SE,Östra Mellansverige,True,0,
+employment_2000_2024,SE21,SE,Småland med öarna,True,0,
+employment_2000_2024,SE22,SE,Sydsverige,True,0,
+employment_2000_2024,SE23,SE,Västsverige,True,0,
+employment_2000_2024,SE31,SE,Norra Mellansverige,True,0,
+employment_2000_2024,SE32,SE,Mellersta Norrland,True,0,
+employment_2000_2024,SE33,SE,Övre Norrland,True,0,
+employment_2000_2024,SI03,SI,Vzhodna Slovenija,False,10,employment:2000-2009
+employment_2000_2024,SI04,SI,Zahodna Slovenija,False,10,employment:2000-2009
+employment_2000_2024,SK01,SK,Bratislavský kraj,True,0,
+employment_2000_2024,SK02,SK,Západné Slovensko,True,0,
+employment_2000_2024,SK03,SK,Stredné Slovensko,True,0,
+employment_2000_2024,SK04,SK,Východné Slovensko,True,0,
+employment_2015_2024,AT11,AT,Burgenland,True,0,
+employment_2015_2024,AT12,AT,Niederösterreich,True,0,
+employment_2015_2024,AT13,AT,Wien,True,0,
+employment_2015_2024,AT21,AT,Kärnten,True,0,
+employment_2015_2024,AT22,AT,Steiermark,True,0,
+employment_2015_2024,AT31,AT,Oberösterreich,True,0,
+employment_2015_2024,AT32,AT,Salzburg,True,0,
+employment_2015_2024,AT33,AT,Tirol,True,0,
+employment_2015_2024,AT34,AT,Vorarlberg,True,0,
+employment_2015_2024,BE10,BE,Région de Bruxelles-Capitale/ Brussels Hoofdstedelijk Gewest,True,0,
+employment_2015_2024,BE21,BE,Prov. Antwerpen,True,0,
+employment_2015_2024,BE22,BE,Prov. Limburg (BE),True,0,
+employment_2015_2024,BE23,BE,Prov. Oost-Vlaanderen,True,0,
+employment_2015_2024,BE24,BE,Prov. Vlaams-Brabant,False,4,employment:2021-2024
+employment_2015_2024,BE25,BE,Prov. West-Vlaanderen,True,0,
+employment_2015_2024,BE31,BE,Prov. Brabant wallon,True,0,
+employment_2015_2024,BE32,BE,Prov. Hainaut,True,0,
+employment_2015_2024,BE33,BE,Prov. Liège,True,0,
+employment_2015_2024,BE34,BE,Prov. Luxembourg (BE),True,0,
+employment_2015_2024,BE35,BE,Prov. Namur,True,0,
+employment_2015_2024,BG31,BG,Severozapaden,True,0,
+employment_2015_2024,BG32,BG,Severen tsentralen,True,0,
+employment_2015_2024,BG33,BG,Severoiztochen,True,0,
+employment_2015_2024,BG34,BG,Yugoiztochen,True,0,
+employment_2015_2024,BG41,BG,Yugozapaden,True,0,
+employment_2015_2024,BG42,BG,Yuzhen tsentralen,True,0,
+employment_2015_2024,CY00,CY,Kýpros,True,0,
+employment_2015_2024,CZ01,CZ,Praha,True,0,
+employment_2015_2024,CZ02,CZ,Střední Čechy,True,0,
+employment_2015_2024,CZ03,CZ,Jihozápad,True,0,
+employment_2015_2024,CZ04,CZ,Severozápad,True,0,
+employment_2015_2024,CZ05,CZ,Severovýchod,True,0,
+employment_2015_2024,CZ06,CZ,Jihovýchod,True,0,
+employment_2015_2024,CZ07,CZ,Střední Morava,True,0,
+employment_2015_2024,CZ08,CZ,Moravskoslezsko,True,0,
+employment_2015_2024,DE11,DE,Stuttgart,True,0,
+employment_2015_2024,DE12,DE,Karlsruhe,True,0,
+employment_2015_2024,DE13,DE,Freiburg,True,0,
+employment_2015_2024,DE14,DE,Tübingen,True,0,
+employment_2015_2024,DE21,DE,Oberbayern,True,0,
+employment_2015_2024,DE22,DE,Niederbayern,True,0,
+employment_2015_2024,DE23,DE,Oberpfalz,True,0,
+employment_2015_2024,DE24,DE,Oberfranken,True,0,
+employment_2015_2024,DE25,DE,Mittelfranken,True,0,
+employment_2015_2024,DE26,DE,Unterfranken,True,0,
+employment_2015_2024,DE27,DE,Schwaben,True,0,
+employment_2015_2024,DE30,DE,Berlin,True,0,
+employment_2015_2024,DE40,DE,Brandenburg,True,0,
+employment_2015_2024,DE50,DE,Bremen,True,0,
+employment_2015_2024,DE60,DE,Hamburg,True,0,
+employment_2015_2024,DE71,DE,Darmstadt,True,0,
+employment_2015_2024,DE72,DE,Gießen,True,0,
+employment_2015_2024,DE73,DE,Kassel,True,0,
+employment_2015_2024,DE80,DE,Mecklenburg-Vorpommern,True,0,
+employment_2015_2024,DE91,DE,Braunschweig,True,0,
+employment_2015_2024,DE92,DE,Hannover,True,0,
+employment_2015_2024,DE93,DE,Lüneburg,True,0,
+employment_2015_2024,DE94,DE,Weser-Ems,True,0,
+employment_2015_2024,DEA1,DE,Düsseldorf,True,0,
+employment_2015_2024,DEA2,DE,Köln,True,0,
+employment_2015_2024,DEA3,DE,Münster,True,0,
+employment_2015_2024,DEA4,DE,Detmold,True,0,
+employment_2015_2024,DEA5,DE,Arnsberg,True,0,
+employment_2015_2024,DEB1,DE,Koblenz,True,0,
+employment_2015_2024,DEB2,DE,Trier,True,0,
+employment_2015_2024,DEB3,DE,Rheinhessen-Pfalz,True,0,
+employment_2015_2024,DEC0,DE,Saarland,True,0,
+employment_2015_2024,DED2,DE,Dresden,True,0,
+employment_2015_2024,DED4,DE,Chemnitz,True,0,
+employment_2015_2024,DED5,DE,Leipzig,True,0,
+employment_2015_2024,DEE0,DE,Sachsen-Anhalt,True,0,
+employment_2015_2024,DEF0,DE,Schleswig-Holstein,True,0,
+employment_2015_2024,DEG0,DE,Thüringen,True,0,
+employment_2015_2024,DK01,DK,Hovedstaden,True,0,
+employment_2015_2024,DK02,DK,Sjælland,True,0,
+employment_2015_2024,DK03,DK,Syddanmark,True,0,
+employment_2015_2024,DK04,DK,Midtjylland,True,0,
+employment_2015_2024,DK05,DK,Nordjylland,True,0,
+employment_2015_2024,EE00,EE,Eesti,True,0,
+employment_2015_2024,EL30,EL,Attiki,True,0,
+employment_2015_2024,EL41,EL,Voreio Aigaio,True,0,
+employment_2015_2024,EL42,EL,Notio Aigaio,True,0,
+employment_2015_2024,EL43,EL,Kriti,True,0,
+employment_2015_2024,EL51,EL,"Anatoliki Makedonia, Thraki",True,0,
+employment_2015_2024,EL52,EL,Kentriki Makedonia,True,0,
+employment_2015_2024,EL53,EL,Dytiki Makedonia,True,0,
+employment_2015_2024,EL54,EL,Ipeiros,True,0,
+employment_2015_2024,EL61,EL,Thessalia,True,0,
+employment_2015_2024,EL62,EL,Ionia Nisia,True,0,
+employment_2015_2024,EL63,EL,Dytiki Elláda,True,0,
+employment_2015_2024,EL64,EL,Sterea Elláda,True,0,
+employment_2015_2024,EL65,EL,Peloponnisos,True,0,
+employment_2015_2024,ES11,ES,Galicia,True,0,
+employment_2015_2024,ES12,ES,Principado de Asturias,True,0,
+employment_2015_2024,ES13,ES,Cantabria,True,0,
+employment_2015_2024,ES21,ES,País Vasco,True,0,
+employment_2015_2024,ES22,ES,Comunidad Foral de Navarra,True,0,
+employment_2015_2024,ES23,ES,La Rioja,True,0,
+employment_2015_2024,ES24,ES,Aragón,True,0,
+employment_2015_2024,ES30,ES,Comunidad de Madrid,True,0,
+employment_2015_2024,ES41,ES,Castilla y León,True,0,
+employment_2015_2024,ES42,ES,Castilla-La Mancha,True,0,
+employment_2015_2024,ES43,ES,Extremadura,True,0,
+employment_2015_2024,ES51,ES,Cataluña,True,0,
+employment_2015_2024,ES52,ES,Comunitat Valenciana ,True,0,
+employment_2015_2024,ES53,ES,Illes Balears,True,0,
+employment_2015_2024,ES61,ES,Andalucía,True,0,
+employment_2015_2024,ES62,ES,Región de Murcia,True,0,
+employment_2015_2024,ES63,ES,Ciudad de Ceuta,True,0,
+employment_2015_2024,ES64,ES,Ciudad de Melilla,True,0,
+employment_2015_2024,ES70,ES,Canarias,True,0,
+employment_2015_2024,FI19,FI,Länsi-Suomi,True,0,
+employment_2015_2024,FI1B,FI,Helsinki-Uusimaa,True,0,
+employment_2015_2024,FI1C,FI,Etelä-Suomi,True,0,
+employment_2015_2024,FI1D,FI,Pohjois- ja Itä-Suomi,True,0,
+employment_2015_2024,FI20,FI,Åland,True,0,
+employment_2015_2024,FR10,FR,Ile-de-France,True,0,
+employment_2015_2024,FRB0,FR,Centre — Val de Loire,True,0,
+employment_2015_2024,FRC1,FR,Bourgogne,True,0,
+employment_2015_2024,FRC2,FR,Franche-Comté,True,0,
+employment_2015_2024,FRD1,FR,Basse-Normandie ,True,0,
+employment_2015_2024,FRD2,FR,Haute-Normandie ,True,0,
+employment_2015_2024,FRE1,FR,Nord-Pas de Calais,True,0,
+employment_2015_2024,FRE2,FR,Picardie,True,0,
+employment_2015_2024,FRF1,FR,Alsace,True,0,
+employment_2015_2024,FRF2,FR,Champagne-Ardenne,True,0,
+employment_2015_2024,FRF3,FR,Lorraine,True,0,
+employment_2015_2024,FRG0,FR,Pays de la Loire,True,0,
+employment_2015_2024,FRH0,FR,Bretagne,True,0,
+employment_2015_2024,FRI1,FR,Aquitaine,True,0,
+employment_2015_2024,FRI2,FR,Limousin,True,0,
+employment_2015_2024,FRI3,FR,Poitou-Charentes,True,0,
+employment_2015_2024,FRJ1,FR,Languedoc-Roussillon,True,0,
+employment_2015_2024,FRJ2,FR,Midi-Pyrénées,True,0,
+employment_2015_2024,FRK1,FR,Auvergne,True,0,
+employment_2015_2024,FRK2,FR,Rhône-Alpes,True,0,
+employment_2015_2024,FRL0,FR,Provence-Alpes-Côte d’Azur,True,0,
+employment_2015_2024,FRM0,FR,Corse,False,10,employment:2015-2024
+employment_2015_2024,FRY1,FR,Guadeloupe,True,0,
+employment_2015_2024,FRY2,FR,Martinique ,True,0,
+employment_2015_2024,FRY3,FR,Guyane,True,0,
+employment_2015_2024,FRY4,FR,La Réunion ,True,0,
+employment_2015_2024,FRY5,FR,Mayotte,False,4,employment:2020-2023
+employment_2015_2024,HR02,HR,Panonska Hrvatska,False,1,employment:2015
+employment_2015_2024,HR03,HR,Jadranska Hrvatska,True,0,
+employment_2015_2024,HR05,HR,Grad Zagreb,False,1,employment:2015
+employment_2015_2024,HR06,HR,Sjeverna Hrvatska,False,1,employment:2015
+employment_2015_2024,HU11,HU,Budapest,True,0,
+employment_2015_2024,HU12,HU,Pest,True,0,
+employment_2015_2024,HU21,HU,Közép-Dunántúl,True,0,
+employment_2015_2024,HU22,HU,Nyugat-Dunántúl,True,0,
+employment_2015_2024,HU23,HU,Dél-Dunántúl,True,0,
+employment_2015_2024,HU31,HU,Észak-Magyarország,True,0,
+employment_2015_2024,HU32,HU,Észak-Alföld,True,0,
+employment_2015_2024,HU33,HU,Dél-Alföld,True,0,
+employment_2015_2024,IE04,IE,Northern and Western,True,0,
+employment_2015_2024,IE05,IE,Southern,True,0,
+employment_2015_2024,IE06,IE,Eastern and Midland,True,0,
+employment_2015_2024,ITC1,IT,Piemonte,True,0,
+employment_2015_2024,ITC2,IT,Valle d’Aosta/Vallée d’Aoste,True,0,
+employment_2015_2024,ITC3,IT,Liguria,True,0,
+employment_2015_2024,ITC4,IT,Lombardia,True,0,
+employment_2015_2024,ITF1,IT,Abruzzo,True,0,
+employment_2015_2024,ITF2,IT,Molise,True,0,
+employment_2015_2024,ITF3,IT,Campania,True,0,
+employment_2015_2024,ITF4,IT,Puglia,True,0,
+employment_2015_2024,ITF5,IT,Basilicata,True,0,
+employment_2015_2024,ITF6,IT,Calabria,True,0,
+employment_2015_2024,ITG1,IT,Sicilia,True,0,
+employment_2015_2024,ITG2,IT,Sardegna,True,0,
+employment_2015_2024,ITH1,IT,Provincia Autonoma di Bolzano/Bozen,True,0,
+employment_2015_2024,ITH2,IT,Provincia Autonoma di Trento,True,0,
+employment_2015_2024,ITH3,IT,Veneto,True,0,
+employment_2015_2024,ITH4,IT,Friuli-Venezia Giulia,True,0,
+employment_2015_2024,ITH5,IT,Emilia-Romagna,True,0,
+employment_2015_2024,ITI1,IT,Toscana,True,0,
+employment_2015_2024,ITI2,IT,Umbria,True,0,
+employment_2015_2024,ITI3,IT,Marche,True,0,
+employment_2015_2024,ITI4,IT,Lazio,True,0,
+employment_2015_2024,LT01,LT,Sostinės regionas,True,0,
+employment_2015_2024,LT02,LT,Vidurio ir vakarų Lietuvos regionas ,True,0,
+employment_2015_2024,LU00,LU,Luxembourg,True,0,
+employment_2015_2024,LV00,LV,Latvija,True,0,
+employment_2015_2024,MT00,MT,Malta,True,0,
+employment_2015_2024,NL11,NL,Groningen,True,0,
+employment_2015_2024,NL12,NL,Friesland (NL),True,0,
+employment_2015_2024,NL13,NL,Drenthe,True,0,
+employment_2015_2024,NL21,NL,Overijssel,True,0,
+employment_2015_2024,NL22,NL,Gelderland,True,0,
+employment_2015_2024,NL23,NL,Flevoland,True,0,
+employment_2015_2024,NL32,NL,Noord-Holland,True,0,
+employment_2015_2024,NL34,NL,Zeeland,True,0,
+employment_2015_2024,NL35,NL,Utrecht,False,4,employment:2015-2018
+employment_2015_2024,NL36,NL,Zuid-Holland,False,4,employment:2015-2018
+employment_2015_2024,NL41,NL,Noord-Brabant,True,0,
+employment_2015_2024,NL42,NL,Limburg (NL),True,0,
+employment_2015_2024,PL21,PL,Małopolskie,True,0,
+employment_2015_2024,PL22,PL,Śląskie,True,0,
+employment_2015_2024,PL41,PL,Wielkopolskie,True,0,
+employment_2015_2024,PL42,PL,Zachodniopomorskie,True,0,
+employment_2015_2024,PL43,PL,Lubuskie,True,0,
+employment_2015_2024,PL51,PL,Dolnośląskie,True,0,
+employment_2015_2024,PL52,PL,Opolskie,True,0,
+employment_2015_2024,PL61,PL,Kujawsko-pomorskie,True,0,
+employment_2015_2024,PL62,PL,Warmińsko-mazurskie,True,0,
+employment_2015_2024,PL63,PL,Pomorskie,True,0,
+employment_2015_2024,PL71,PL,Łódzkie,True,0,
+employment_2015_2024,PL72,PL,Świętokrzyskie,True,0,
+employment_2015_2024,PL81,PL,Lubelskie,True,0,
+employment_2015_2024,PL82,PL,Podkarpackie,True,0,
+employment_2015_2024,PL84,PL,Podlaskie,True,0,
+employment_2015_2024,PL91,PL,Warszawski stołeczny,True,0,
+employment_2015_2024,PL92,PL,Mazowiecki regionalny,True,0,
+employment_2015_2024,PT11,PT,Norte,True,0,
+employment_2015_2024,PT15,PT,Algarve,True,0,
+employment_2015_2024,PT19,PT,Centro (PT),False,4,employment:2015-2018
+employment_2015_2024,PT1A,PT,Grande Lisboa,False,4,employment:2015-2018
+employment_2015_2024,PT1B,PT,Península de Setúbal,False,4,employment:2015-2018
+employment_2015_2024,PT1C,PT,Alentejo,False,4,employment:2015-2018
+employment_2015_2024,PT1D,PT,Oeste e Vale do Tejo,False,4,employment:2015-2018
+employment_2015_2024,PT20,PT,Região Autónoma dos Açores,True,0,
+employment_2015_2024,PT30,PT,Região Autónoma da Madeira,True,0,
+employment_2015_2024,RO11,RO,Nord-Vest,True,0,
+employment_2015_2024,RO12,RO,Centru,True,0,
+employment_2015_2024,RO21,RO,Nord-Est,True,0,
+employment_2015_2024,RO22,RO,Sud-Est,True,0,
+employment_2015_2024,RO31,RO,Sud-Muntenia,True,0,
+employment_2015_2024,RO32,RO,Bucureşti-Ilfov,True,0,
+employment_2015_2024,RO41,RO,Sud-Vest Oltenia,True,0,
+employment_2015_2024,RO42,RO,Vest,True,0,
+employment_2015_2024,SE11,SE,Stockholm,True,0,
+employment_2015_2024,SE12,SE,Östra Mellansverige,True,0,
+employment_2015_2024,SE21,SE,Småland med öarna,True,0,
+employment_2015_2024,SE22,SE,Sydsverige,True,0,
+employment_2015_2024,SE23,SE,Västsverige,True,0,
+employment_2015_2024,SE31,SE,Norra Mellansverige,True,0,
+employment_2015_2024,SE32,SE,Mellersta Norrland,True,0,
+employment_2015_2024,SE33,SE,Övre Norrland,True,0,
+employment_2015_2024,SI03,SI,Vzhodna Slovenija,True,0,
+employment_2015_2024,SI04,SI,Zahodna Slovenija,True,0,
+employment_2015_2024,SK01,SK,Bratislavský kraj,True,0,
+employment_2015_2024,SK02,SK,Západné Slovensko,True,0,
+employment_2015_2024,SK03,SK,Stredné Slovensko,True,0,
+employment_2015_2024,SK04,SK,Východné Slovensko,True,0,
+youth_2000_2024,AT11,AT,Burgenland,False,25,youth_unemployment:2000-2024
+youth_2000_2024,AT12,AT,Niederösterreich,False,4,youth_unemployment:2000-2003
+youth_2000_2024,AT13,AT,Wien,False,2,youth_unemployment:2000-2001
+youth_2000_2024,AT21,AT,Kärnten,False,25,youth_unemployment:2000-2024
+youth_2000_2024,AT22,AT,Steiermark,False,12,"youth_unemployment:2000-2004,2011-2012,2017-2019,2021-2022"
+youth_2000_2024,AT31,AT,Oberösterreich,False,6,"youth_unemployment:2000-2003,2019,2022"
+youth_2000_2024,AT32,AT,Salzburg,False,25,youth_unemployment:2000-2024
+youth_2000_2024,AT33,AT,Tirol,False,25,youth_unemployment:2000-2024
+youth_2000_2024,AT34,AT,Vorarlberg,False,25,youth_unemployment:2000-2024
+youth_2000_2024,BE10,BE,Région de Bruxelles-Capitale/ Brussels Hoofdstedelijk Gewest,False,2,"youth_unemployment:2001,2004"
+youth_2000_2024,BE21,BE,Prov. Antwerpen,False,3,youth_unemployment:2000-2002
+youth_2000_2024,BE22,BE,Prov. Limburg (BE),False,17,"youth_unemployment:2000-2004,2007-2008,2011,2016-2024"
+youth_2000_2024,BE23,BE,Prov. Oost-Vlaanderen,False,5,youth_unemployment:2000-2004
+youth_2000_2024,BE24,BE,Prov. Vlaams-Brabant,False,15,"youth_unemployment:2000-2004,2007-2008,2011,2016-2018,2021-2024"
+youth_2000_2024,BE25,BE,Prov. West-Vlaanderen,False,13,"youth_unemployment:2000-2004,2007-2008,2012,2016-2020"
+youth_2000_2024,BE31,BE,Prov. Brabant wallon,False,25,youth_unemployment:2000-2024
+youth_2000_2024,BE32,BE,Prov. Hainaut,True,0,
+youth_2000_2024,BE33,BE,Prov. Liège,False,4,youth_unemployment:2000-2003
+youth_2000_2024,BE34,BE,Prov. Luxembourg (BE),False,25,youth_unemployment:2000-2024
+youth_2000_2024,BE35,BE,Prov. Namur,False,18,"youth_unemployment:2000-2004,2007-2009,2011-2012,2016-2023"
+youth_2000_2024,BG31,BG,Severozapaden,False,23,"youth_unemployment:2000-2004,2006-2010,2012-2024"
+youth_2000_2024,BG32,BG,Severen tsentralen,False,19,"youth_unemployment:2000-2003,2007-2008,2010,2013-2024"
+youth_2000_2024,BG33,BG,Severoiztochen,False,14,"youth_unemployment:2000-2002,2014-2024"
+youth_2000_2024,BG34,BG,Yugoiztochen,False,19,"youth_unemployment:2000-2002,2005-2009,2014-2024"
+youth_2000_2024,BG41,BG,Yugozapaden,False,11,"youth_unemployment:2007-2008,2016-2024"
+youth_2000_2024,BG42,BG,Yuzhen tsentralen,False,14,"youth_unemployment:2000-2002,2007-2008,2016-2024"
+youth_2000_2024,CY00,CY,Kýpros,True,0,
+youth_2000_2024,CZ01,CZ,Praha,False,12,"youth_unemployment:2004,2007-2008,2015-2023"
+youth_2000_2024,CZ02,CZ,Střední Čechy,False,9,"youth_unemployment:2003,2017-2024"
+youth_2000_2024,CZ03,CZ,Jihozápad,False,7,youth_unemployment:2017-2023
+youth_2000_2024,CZ04,CZ,Severozápad,False,2,"youth_unemployment:2019,2022"
+youth_2000_2024,CZ05,CZ,Severovýchod,False,5,"youth_unemployment:2018-2020,2022-2023"
+youth_2000_2024,CZ06,CZ,Jihovýchod,False,5,"youth_unemployment:2017-2020,2022"
+youth_2000_2024,CZ07,CZ,Střední Morava,False,7,youth_unemployment:2018-2024
+youth_2000_2024,CZ08,CZ,Moravskoslezsko,True,0,
+youth_2000_2024,DE11,DE,Stuttgart,False,5,youth_unemployment:2020-2024
+youth_2000_2024,DE12,DE,Karlsruhe,False,5,youth_unemployment:2020-2024
+youth_2000_2024,DE13,DE,Freiburg,False,6,"youth_unemployment:2001,2020-2024"
+youth_2000_2024,DE14,DE,Tübingen,False,12,"youth_unemployment:2000-2002,2011,2017-2024"
+youth_2000_2024,DE21,DE,Oberbayern,False,5,youth_unemployment:2020-2024
+youth_2000_2024,DE22,DE,Niederbayern,False,16,"youth_unemployment:2000-2001,2008,2011,2013-2024"
+youth_2000_2024,DE23,DE,Oberpfalz,False,20,"youth_unemployment:2000-2002,2004,2008,2010-2024"
+youth_2000_2024,DE24,DE,Oberfranken,False,15,"youth_unemployment:2001-2002,2011-2012,2014-2024"
+youth_2000_2024,DE25,DE,Mittelfranken,False,9,youth_unemployment:2016-2024
+youth_2000_2024,DE26,DE,Unterfranken,False,15,"youth_unemployment:2001,2011-2024"
+youth_2000_2024,DE27,DE,Schwaben,False,8,"youth_unemployment:2000,2014-2015,2020-2024"
+youth_2000_2024,DE30,DE,Berlin,False,5,youth_unemployment:2020-2024
+youth_2000_2024,DE40,DE,Brandenburg,False,5,youth_unemployment:2020-2024
+youth_2000_2024,DE50,DE,Bremen,False,20,"youth_unemployment:2000-2002,2007-2010,2012-2024"
+youth_2000_2024,DE60,DE,Hamburg,False,5,youth_unemployment:2020-2024
+youth_2000_2024,DE71,DE,Darmstadt,False,5,youth_unemployment:2020-2024
+youth_2000_2024,DE72,DE,Gießen,False,12,"youth_unemployment:2001-2002,2012-2013,2015,2018-2024"
+youth_2000_2024,DE73,DE,Kassel,False,13,"youth_unemployment:2000,2011-2012,2015-2024"
+youth_2000_2024,DE80,DE,Mecklenburg-Vorpommern,False,8,"youth_unemployment:2016-2017,2019-2024"
+youth_2000_2024,DE91,DE,Braunschweig,False,6,"youth_unemployment:2015,2020-2024"
+youth_2000_2024,DE92,DE,Hannover,False,6,"youth_unemployment:2001,2020-2024"
+youth_2000_2024,DE93,DE,Lüneburg,False,8,"youth_unemployment:2016,2018-2024"
+youth_2000_2024,DE94,DE,Weser-Ems,False,5,youth_unemployment:2020-2024
+youth_2000_2024,DEA1,DE,Düsseldorf,False,5,youth_unemployment:2020-2024
+youth_2000_2024,DEA2,DE,Köln,False,5,youth_unemployment:2020-2024
+youth_2000_2024,DEA3,DE,Münster,False,5,youth_unemployment:2020-2024
+youth_2000_2024,DEA4,DE,Detmold,False,6,youth_unemployment:2019-2024
+youth_2000_2024,DEA5,DE,Arnsberg,False,5,youth_unemployment:2020-2024
+youth_2000_2024,DEB1,DE,Koblenz,False,10,"youth_unemployment:2000-2001,2015,2018-2024"
+youth_2000_2024,DEB2,DE,Trier,False,25,youth_unemployment:2000-2024
+youth_2000_2024,DEB3,DE,Rheinhessen-Pfalz,False,7,"youth_unemployment:2000-2001,2020-2024"
+youth_2000_2024,DEC0,DE,Saarland,False,13,"youth_unemployment:2001,2007,2010,2014-2015,2017-2024"
+youth_2000_2024,DED2,DE,Dresden,False,9,youth_unemployment:2016-2024
+youth_2000_2024,DED4,DE,Chemnitz,False,16,"youth_unemployment:2000-2004,2014-2024"
+youth_2000_2024,DED5,DE,Leipzig,False,17,"youth_unemployment:2000-2004,2012,2014-2024"
+youth_2000_2024,DEE0,DE,Sachsen-Anhalt,False,5,youth_unemployment:2020-2024
+youth_2000_2024,DEF0,DE,Schleswig-Holstein,False,5,youth_unemployment:2020-2024
+youth_2000_2024,DEG0,DE,Thüringen,False,5,youth_unemployment:2020-2024
+youth_2000_2024,DK01,DK,Hovedstaden,False,7,youth_unemployment:2000-2006
+youth_2000_2024,DK02,DK,Sjælland,False,7,youth_unemployment:2000-2006
+youth_2000_2024,DK03,DK,Syddanmark,False,7,youth_unemployment:2000-2006
+youth_2000_2024,DK04,DK,Midtjylland,False,7,youth_unemployment:2000-2006
+youth_2000_2024,DK05,DK,Nordjylland,False,8,"youth_unemployment:2000-2006,2008"
+youth_2000_2024,EE00,EE,Eesti,True,0,
+youth_2000_2024,EL30,EL,Attiki,True,0,
+youth_2000_2024,EL41,EL,Voreio Aigaio,False,21,"youth_unemployment:2000-2011,2014-2016,2019-2024"
+youth_2000_2024,EL42,EL,Notio Aigaio,False,17,"youth_unemployment:2000-2001,2003-2008,2014,2017-2024"
+youth_2000_2024,EL43,EL,Kriti,False,4,"youth_unemployment:2007-2008,2022,2024"
+youth_2000_2024,EL51,EL,"Anatoliki Makedonia, Thraki",True,0,
+youth_2000_2024,EL52,EL,Kentriki Makedonia,True,0,
+youth_2000_2024,EL53,EL,Dytiki Makedonia,False,13,"youth_unemployment:2002,2006-2010,2014,2019-2024"
+youth_2000_2024,EL54,EL,Ipeiros,False,14,"youth_unemployment:2000-2001,2007-2008,2015-2024"
+youth_2000_2024,EL61,EL,Thessalia,False,1,youth_unemployment:2024
+youth_2000_2024,EL62,EL,Ionia Nisia,False,25,youth_unemployment:2000-2024
+youth_2000_2024,EL63,EL,Dytiki Elláda,True,0,
+youth_2000_2024,EL64,EL,Sterea Elláda,False,1,youth_unemployment:2024
+youth_2000_2024,EL65,EL,Peloponnisos,False,7,"youth_unemployment:2002,2008,2019-2020,2022-2024"
+youth_2000_2024,ES11,ES,Galicia,True,0,
+youth_2000_2024,ES12,ES,Principado de Asturias,False,1,youth_unemployment:2001
+youth_2000_2024,ES13,ES,Cantabria,False,19,"youth_unemployment:2000-2008,2015-2024"
+youth_2000_2024,ES21,ES,País Vasco,True,0,
+youth_2000_2024,ES22,ES,Comunidad Foral de Navarra,False,11,"youth_unemployment:2000-2007,2019-2021"
+youth_2000_2024,ES23,ES,La Rioja,False,23,"youth_unemployment:2000-2010,2013-2024"
+youth_2000_2024,ES24,ES,Aragón,False,3,"youth_unemployment:2001-2002,2004"
+youth_2000_2024,ES30,ES,Comunidad de Madrid,True,0,
+youth_2000_2024,ES41,ES,Castilla y León,True,0,
+youth_2000_2024,ES42,ES,Castilla-La Mancha,True,0,
+youth_2000_2024,ES43,ES,Extremadura,True,0,
+youth_2000_2024,ES51,ES,Cataluña,True,0,
+youth_2000_2024,ES52,ES,Comunitat Valenciana ,True,0,
+youth_2000_2024,ES53,ES,Illes Balears,False,1,youth_unemployment:2000
+youth_2000_2024,ES61,ES,Andalucía,True,0,
+youth_2000_2024,ES62,ES,Región de Murcia,True,0,
+youth_2000_2024,ES63,ES,Ciudad de Ceuta,False,25,youth_unemployment:2000-2024
+youth_2000_2024,ES64,ES,Ciudad de Melilla,False,25,youth_unemployment:2000-2024
+youth_2000_2024,ES70,ES,Canarias,True,0,
+youth_2000_2024,FI19,FI,Länsi-Suomi,True,0,
+youth_2000_2024,FI1B,FI,Helsinki-Uusimaa,False,5,youth_unemployment:2000-2004
+youth_2000_2024,FI1C,FI,Etelä-Suomi,False,5,youth_unemployment:2000-2004
+youth_2000_2024,FI1D,FI,Pohjois- ja Itä-Suomi,False,5,youth_unemployment:2000-2004
+youth_2000_2024,FI20,FI,Åland,False,25,youth_unemployment:2000-2024
+youth_2000_2024,FR10,FR,Ile-de-France,True,0,
+youth_2000_2024,FRB0,FR,Centre — Val de Loire,False,5,youth_unemployment:2000-2004
+youth_2000_2024,FRC1,FR,Bourgogne,False,8,"youth_unemployment:2000-2004,2006-2008"
+youth_2000_2024,FRC2,FR,Franche-Comté,False,18,"youth_unemployment:2000-2008,2011,2017-2024"
+youth_2000_2024,FRD1,FR,Basse-Normandie ,False,10,"youth_unemployment:2000-2008,2021"
+youth_2000_2024,FRD2,FR,Haute-Normandie ,False,5,youth_unemployment:2000-2004
+youth_2000_2024,FRE1,FR,Nord-Pas de Calais,False,2,youth_unemployment:2003-2004
+youth_2000_2024,FRE2,FR,Picardie,False,5,youth_unemployment:2000-2004
+youth_2000_2024,FRF1,FR,Alsace,False,7,"youth_unemployment:2000-2004,2006,2008"
+youth_2000_2024,FRF2,FR,Champagne-Ardenne,False,7,"youth_unemployment:2000-2004,2006,2008"
+youth_2000_2024,FRF3,FR,Lorraine,False,4,"youth_unemployment:2000-2001,2003-2004"
+youth_2000_2024,FRG0,FR,Pays de la Loire,False,4,youth_unemployment:2001-2004
+youth_2000_2024,FRH0,FR,Bretagne,False,5,youth_unemployment:2000-2004
+youth_2000_2024,FRI1,FR,Aquitaine,False,3,youth_unemployment:2002-2004
+youth_2000_2024,FRI2,FR,Limousin,False,25,youth_unemployment:2000-2024
+youth_2000_2024,FRI3,FR,Poitou-Charentes,False,7,"youth_unemployment:2000-2004,2007-2008"
+youth_2000_2024,FRJ1,FR,Languedoc-Roussillon,False,2,youth_unemployment:2003-2004
+youth_2000_2024,FRJ2,FR,Midi-Pyrénées,False,5,youth_unemployment:2000-2004
+youth_2000_2024,FRK1,FR,Auvergne,False,16,"youth_unemployment:2000-2009,2014-2017,2019-2020"
+youth_2000_2024,FRK2,FR,Rhône-Alpes,False,2,youth_unemployment:2003-2004
+youth_2000_2024,FRL0,FR,Provence-Alpes-Côte d’Azur,False,2,youth_unemployment:2003-2004
+youth_2000_2024,FRM0,FR,Corse,False,25,youth_unemployment:2000-2024
+youth_2000_2024,FRY1,FR,Guadeloupe,False,6,"youth_unemployment:2000,2020-2024"
+youth_2000_2024,FRY2,FR,Martinique ,False,10,"youth_unemployment:2000,2015-2017,2019-2024"
+youth_2000_2024,FRY3,FR,Guyane,False,25,youth_unemployment:2000-2024
+youth_2000_2024,FRY4,FR,La Réunion ,False,1,youth_unemployment:2000
+youth_2000_2024,FRY5,FR,Mayotte,False,24,"youth_unemployment:2000-2017,2019-2024"
+youth_2000_2024,HR02,HR,Panonska Hrvatska,False,19,"youth_unemployment:2000-2015,2019,2023-2024"
+youth_2000_2024,HR03,HR,Jadranska Hrvatska,False,13,"youth_unemployment:2000-2006,2019-2024"
+youth_2000_2024,HR05,HR,Grad Zagreb,False,25,youth_unemployment:2000-2024
+youth_2000_2024,HR06,HR,Sjeverna Hrvatska,False,25,youth_unemployment:2000-2024
+youth_2000_2024,HU11,HU,Budapest,False,21,"youth_unemployment:2000-2012,2017-2024"
+youth_2000_2024,HU12,HU,Pest,False,20,"youth_unemployment:2000-2012,2016-2019,2021-2023"
+youth_2000_2024,HU21,HU,Közép-Dunántúl,False,12,"youth_unemployment:2001,2007,2015-2024"
+youth_2000_2024,HU22,HU,Nyugat-Dunántúl,False,15,"youth_unemployment:2002,2004,2007-2008,2014-2024"
+youth_2000_2024,HU23,HU,Dél-Dunántúl,False,6,"youth_unemployment:2016-2018,2020-2022"
+youth_2000_2024,HU31,HU,Észak-Magyarország,False,1,youth_unemployment:2022
+youth_2000_2024,HU32,HU,Észak-Alföld,True,0,
+youth_2000_2024,HU33,HU,Dél-Alföld,False,4,"youth_unemployment:2017-2018,2020,2022"
+youth_2000_2024,IE04,IE,Northern and Western,False,18,"youth_unemployment:2000-2011,2019-2024"
+youth_2000_2024,IE05,IE,Southern,False,12,youth_unemployment:2000-2011
+youth_2000_2024,IE06,IE,Eastern and Midland,False,12,youth_unemployment:2000-2011
+youth_2000_2024,ITC1,IT,Piemonte,True,0,
+youth_2000_2024,ITC2,IT,Valle d’Aosta/Vallée d’Aoste,False,25,youth_unemployment:2000-2024
+youth_2000_2024,ITC3,IT,Liguria,False,1,youth_unemployment:2004
+youth_2000_2024,ITC4,IT,Lombardia,True,0,
+youth_2000_2024,ITF1,IT,Abruzzo,False,3,youth_unemployment:2001-2003
+youth_2000_2024,ITF2,IT,Molise,False,15,"youth_unemployment:2000-2004,2007,2009-2011,2018,2020-2024"
+youth_2000_2024,ITF3,IT,Campania,True,0,
+youth_2000_2024,ITF4,IT,Puglia,True,0,
+youth_2000_2024,ITF5,IT,Basilicata,False,5,"youth_unemployment:2004,2021-2024"
+youth_2000_2024,ITF6,IT,Calabria,True,0,
+youth_2000_2024,ITG1,IT,Sicilia,True,0,
+youth_2000_2024,ITG2,IT,Sardegna,True,0,
+youth_2000_2024,ITH1,IT,Provincia Autonoma di Bolzano/Bozen,False,22,"youth_unemployment:2000-2011,2015-2024"
+youth_2000_2024,ITH2,IT,Provincia Autonoma di Trento,False,18,"youth_unemployment:2000-2011,2019-2024"
+youth_2000_2024,ITH3,IT,Veneto,True,0,
+youth_2000_2024,ITH4,IT,Friuli-Venezia Giulia,False,6,"youth_unemployment:2000-2004,2024"
+youth_2000_2024,ITH5,IT,Emilia-Romagna,False,5,youth_unemployment:2000-2004
+youth_2000_2024,ITI1,IT,Toscana,True,0,
+youth_2000_2024,ITI2,IT,Umbria,False,7,"youth_unemployment:2001-2004,2022-2024"
+youth_2000_2024,ITI3,IT,Marche,False,5,youth_unemployment:2000-2004
+youth_2000_2024,ITI4,IT,Lazio,True,0,
+youth_2000_2024,LT01,LT,Sostinės regionas,False,21,"youth_unemployment:2000-2012,2015-2019,2021-2023"
+youth_2000_2024,LT02,LT,Vidurio ir vakarų Lietuvos regionas ,False,13,youth_unemployment:2000-2012
+youth_2000_2024,LU00,LU,Luxembourg,False,3,youth_unemployment:2000-2002
+youth_2000_2024,LV00,LV,Latvija,True,0,
+youth_2000_2024,MT00,MT,Malta,True,0,
+youth_2000_2024,NL11,NL,Groningen,False,5,youth_unemployment:2000-2004
+youth_2000_2024,NL12,NL,Friesland (NL),False,5,youth_unemployment:2000-2004
+youth_2000_2024,NL13,NL,Drenthe,False,5,youth_unemployment:2000-2004
+youth_2000_2024,NL21,NL,Overijssel,False,2,"youth_unemployment:2000,2002"
+youth_2000_2024,NL22,NL,Gelderland,True,0,
+youth_2000_2024,NL23,NL,Flevoland,False,4,youth_unemployment:2000-2003
+youth_2000_2024,NL32,NL,Noord-Holland,True,0,
+youth_2000_2024,NL34,NL,Zeeland,False,24,"youth_unemployment:2000-2014,2016-2024"
+youth_2000_2024,NL35,NL,Utrecht,False,19,youth_unemployment:2000-2018
+youth_2000_2024,NL36,NL,Zuid-Holland,False,19,youth_unemployment:2000-2018
+youth_2000_2024,NL41,NL,Noord-Brabant,True,0,
+youth_2000_2024,NL42,NL,Limburg (NL),False,2,youth_unemployment:2000-2001
+youth_2000_2024,PL21,PL,Małopolskie,False,7,youth_unemployment:2018-2024
+youth_2000_2024,PL22,PL,Śląskie,False,6,youth_unemployment:2019-2024
+youth_2000_2024,PL41,PL,Wielkopolskie,False,8,youth_unemployment:2017-2024
+youth_2000_2024,PL42,PL,Zachodniopomorskie,False,13,"youth_unemployment:2007-2008,2014-2024"
+youth_2000_2024,PL43,PL,Lubuskie,False,20,"youth_unemployment:2000,2006-2024"
+youth_2000_2024,PL51,PL,Dolnośląskie,False,9,youth_unemployment:2016-2024
+youth_2000_2024,PL52,PL,Opolskie,False,21,"youth_unemployment:2000,2004,2006-2024"
+youth_2000_2024,PL61,PL,Kujawsko-pomorskie,False,8,youth_unemployment:2017-2024
+youth_2000_2024,PL62,PL,Warmińsko-mazurskie,False,18,youth_unemployment:2007-2024
+youth_2000_2024,PL63,PL,Pomorskie,False,10,"youth_unemployment:2008-2009,2017-2024"
+youth_2000_2024,PL71,PL,Łódzkie,False,9,youth_unemployment:2016-2024
+youth_2000_2024,PL72,PL,Świętokrzyskie,False,10,"youth_unemployment:2008,2016-2024"
+youth_2000_2024,PL81,PL,Lubelskie,False,7,youth_unemployment:2018-2024
+youth_2000_2024,PL82,PL,Podkarpackie,False,7,youth_unemployment:2018-2024
+youth_2000_2024,PL84,PL,Podlaskie,False,20,"youth_unemployment:2000,2006-2024"
+youth_2000_2024,PL91,PL,Warszawski stołeczny,False,25,youth_unemployment:2000-2024
+youth_2000_2024,PL92,PL,Mazowiecki regionalny,False,20,"youth_unemployment:2000-2012,2018-2024"
+youth_2000_2024,PT11,PT,Norte,True,0,
+youth_2000_2024,PT15,PT,Algarve,False,18,"youth_unemployment:2000-2008,2016-2024"
+youth_2000_2024,PT19,PT,Centro (PT),False,20,"youth_unemployment:2000-2018,2021"
+youth_2000_2024,PT1A,PT,Grande Lisboa,False,19,youth_unemployment:2000-2018
+youth_2000_2024,PT1B,PT,Península de Setúbal,False,23,"youth_unemployment:2000-2018,2021-2024"
+youth_2000_2024,PT1C,PT,Alentejo,False,25,youth_unemployment:2000-2024
+youth_2000_2024,PT1D,PT,Oeste e Vale do Tejo,False,24,"youth_unemployment:2000-2019,2021-2024"
+youth_2000_2024,PT20,PT,Região Autónoma dos Açores,False,22,"youth_unemployment:2000-2011,2015-2024"
+youth_2000_2024,PT30,PT,Região Autónoma da Madeira,False,22,"youth_unemployment:2000-2010,2014-2024"
+youth_2000_2024,RO11,RO,Nord-Vest,False,8,youth_unemployment:2016-2023
+youth_2000_2024,RO12,RO,Centru,False,1,youth_unemployment:2023
+youth_2000_2024,RO21,RO,Nord-Est,True,0,
+youth_2000_2024,RO22,RO,Sud-Est,True,0,
+youth_2000_2024,RO31,RO,Sud-Muntenia,True,0,
+youth_2000_2024,RO32,RO,Bucureşti-Ilfov,False,10,youth_unemployment:2015-2024
+youth_2000_2024,RO41,RO,Sud-Vest Oltenia,False,3,"youth_unemployment:2018,2020,2023"
+youth_2000_2024,RO42,RO,Vest,False,11,"youth_unemployment:2001,2015-2024"
+youth_2000_2024,SE11,SE,Stockholm,False,1,youth_unemployment:2000
+youth_2000_2024,SE12,SE,Östra Mellansverige,False,1,youth_unemployment:2000
+youth_2000_2024,SE21,SE,Småland med öarna,False,2,youth_unemployment:2000-2001
+youth_2000_2024,SE22,SE,Sydsverige,True,0,
+youth_2000_2024,SE23,SE,Västsverige,False,1,youth_unemployment:2000
+youth_2000_2024,SE31,SE,Norra Mellansverige,False,1,youth_unemployment:2000
+youth_2000_2024,SE32,SE,Mellersta Norrland,False,11,"youth_unemployment:2000-2004,2019-2024"
+youth_2000_2024,SE33,SE,Övre Norrland,False,7,"youth_unemployment:2000-2003,2019,2023-2024"
+youth_2000_2024,SI03,SI,Vzhodna Slovenija,False,15,"youth_unemployment:2000-2009,2019,2021-2024"
+youth_2000_2024,SI04,SI,Zahodna Slovenija,False,18,"youth_unemployment:2000-2009,2017-2024"
+youth_2000_2024,SK01,SK,Bratislavský kraj,False,15,"youth_unemployment:2006-2009,2014-2024"
+youth_2000_2024,SK02,SK,Západné Slovensko,False,4,youth_unemployment:2021-2024
+youth_2000_2024,SK03,SK,Stredné Slovensko,False,4,youth_unemployment:2021-2024
+youth_2000_2024,SK04,SK,Východné Slovensko,True,0,
+youth_2015_2024,AT11,AT,Burgenland,False,10,youth_unemployment:2015-2024
+youth_2015_2024,AT12,AT,Niederösterreich,True,0,
+youth_2015_2024,AT13,AT,Wien,True,0,
+youth_2015_2024,AT21,AT,Kärnten,False,10,youth_unemployment:2015-2024
+youth_2015_2024,AT22,AT,Steiermark,False,5,"youth_unemployment:2017-2019,2021-2022"
+youth_2015_2024,AT31,AT,Oberösterreich,False,2,"youth_unemployment:2019,2022"
+youth_2015_2024,AT32,AT,Salzburg,False,10,youth_unemployment:2015-2024
+youth_2015_2024,AT33,AT,Tirol,False,10,youth_unemployment:2015-2024
+youth_2015_2024,AT34,AT,Vorarlberg,False,10,youth_unemployment:2015-2024
+youth_2015_2024,BE10,BE,Région de Bruxelles-Capitale/ Brussels Hoofdstedelijk Gewest,True,0,
+youth_2015_2024,BE21,BE,Prov. Antwerpen,True,0,
+youth_2015_2024,BE22,BE,Prov. Limburg (BE),False,9,youth_unemployment:2016-2024
+youth_2015_2024,BE23,BE,Prov. Oost-Vlaanderen,True,0,
+youth_2015_2024,BE24,BE,Prov. Vlaams-Brabant,False,7,"youth_unemployment:2016-2018,2021-2024"
+youth_2015_2024,BE25,BE,Prov. West-Vlaanderen,False,5,youth_unemployment:2016-2020
+youth_2015_2024,BE31,BE,Prov. Brabant wallon,False,10,youth_unemployment:2015-2024
+youth_2015_2024,BE32,BE,Prov. Hainaut,True,0,
+youth_2015_2024,BE33,BE,Prov. Liège,True,0,
+youth_2015_2024,BE34,BE,Prov. Luxembourg (BE),False,10,youth_unemployment:2015-2024
+youth_2015_2024,BE35,BE,Prov. Namur,False,8,youth_unemployment:2016-2023
+youth_2015_2024,BG31,BG,Severozapaden,False,10,youth_unemployment:2015-2024
+youth_2015_2024,BG32,BG,Severen tsentralen,False,10,youth_unemployment:2015-2024
+youth_2015_2024,BG33,BG,Severoiztochen,False,10,youth_unemployment:2015-2024
+youth_2015_2024,BG34,BG,Yugoiztochen,False,10,youth_unemployment:2015-2024
+youth_2015_2024,BG41,BG,Yugozapaden,False,9,youth_unemployment:2016-2024
+youth_2015_2024,BG42,BG,Yuzhen tsentralen,False,9,youth_unemployment:2016-2024
+youth_2015_2024,CY00,CY,Kýpros,True,0,
+youth_2015_2024,CZ01,CZ,Praha,False,9,youth_unemployment:2015-2023
+youth_2015_2024,CZ02,CZ,Střední Čechy,False,8,youth_unemployment:2017-2024
+youth_2015_2024,CZ03,CZ,Jihozápad,False,7,youth_unemployment:2017-2023
+youth_2015_2024,CZ04,CZ,Severozápad,False,2,"youth_unemployment:2019,2022"
+youth_2015_2024,CZ05,CZ,Severovýchod,False,5,"youth_unemployment:2018-2020,2022-2023"
+youth_2015_2024,CZ06,CZ,Jihovýchod,False,5,"youth_unemployment:2017-2020,2022"
+youth_2015_2024,CZ07,CZ,Střední Morava,False,7,youth_unemployment:2018-2024
+youth_2015_2024,CZ08,CZ,Moravskoslezsko,True,0,
+youth_2015_2024,DE11,DE,Stuttgart,False,5,youth_unemployment:2020-2024
+youth_2015_2024,DE12,DE,Karlsruhe,False,5,youth_unemployment:2020-2024
+youth_2015_2024,DE13,DE,Freiburg,False,5,youth_unemployment:2020-2024
+youth_2015_2024,DE14,DE,Tübingen,False,8,youth_unemployment:2017-2024
+youth_2015_2024,DE21,DE,Oberbayern,False,5,youth_unemployment:2020-2024
+youth_2015_2024,DE22,DE,Niederbayern,False,10,youth_unemployment:2015-2024
+youth_2015_2024,DE23,DE,Oberpfalz,False,10,youth_unemployment:2015-2024
+youth_2015_2024,DE24,DE,Oberfranken,False,10,youth_unemployment:2015-2024
+youth_2015_2024,DE25,DE,Mittelfranken,False,9,youth_unemployment:2016-2024
+youth_2015_2024,DE26,DE,Unterfranken,False,10,youth_unemployment:2015-2024
+youth_2015_2024,DE27,DE,Schwaben,False,6,"youth_unemployment:2015,2020-2024"
+youth_2015_2024,DE30,DE,Berlin,False,5,youth_unemployment:2020-2024
+youth_2015_2024,DE40,DE,Brandenburg,False,5,youth_unemployment:2020-2024
+youth_2015_2024,DE50,DE,Bremen,False,10,youth_unemployment:2015-2024
+youth_2015_2024,DE60,DE,Hamburg,False,5,youth_unemployment:2020-2024
+youth_2015_2024,DE71,DE,Darmstadt,False,5,youth_unemployment:2020-2024
+youth_2015_2024,DE72,DE,Gießen,False,8,"youth_unemployment:2015,2018-2024"
+youth_2015_2024,DE73,DE,Kassel,False,10,youth_unemployment:2015-2024
+youth_2015_2024,DE80,DE,Mecklenburg-Vorpommern,False,8,"youth_unemployment:2016-2017,2019-2024"
+youth_2015_2024,DE91,DE,Braunschweig,False,6,"youth_unemployment:2015,2020-2024"
+youth_2015_2024,DE92,DE,Hannover,False,5,youth_unemployment:2020-2024
+youth_2015_2024,DE93,DE,Lüneburg,False,8,"youth_unemployment:2016,2018-2024"
+youth_2015_2024,DE94,DE,Weser-Ems,False,5,youth_unemployment:2020-2024
+youth_2015_2024,DEA1,DE,Düsseldorf,False,5,youth_unemployment:2020-2024
+youth_2015_2024,DEA2,DE,Köln,False,5,youth_unemployment:2020-2024
+youth_2015_2024,DEA3,DE,Münster,False,5,youth_unemployment:2020-2024
+youth_2015_2024,DEA4,DE,Detmold,False,6,youth_unemployment:2019-2024
+youth_2015_2024,DEA5,DE,Arnsberg,False,5,youth_unemployment:2020-2024
+youth_2015_2024,DEB1,DE,Koblenz,False,8,"youth_unemployment:2015,2018-2024"
+youth_2015_2024,DEB2,DE,Trier,False,10,youth_unemployment:2015-2024
+youth_2015_2024,DEB3,DE,Rheinhessen-Pfalz,False,5,youth_unemployment:2020-2024
+youth_2015_2024,DEC0,DE,Saarland,False,9,"youth_unemployment:2015,2017-2024"
+youth_2015_2024,DED2,DE,Dresden,False,9,youth_unemployment:2016-2024
+youth_2015_2024,DED4,DE,Chemnitz,False,10,youth_unemployment:2015-2024
+youth_2015_2024,DED5,DE,Leipzig,False,10,youth_unemployment:2015-2024
+youth_2015_2024,DEE0,DE,Sachsen-Anhalt,False,5,youth_unemployment:2020-2024
+youth_2015_2024,DEF0,DE,Schleswig-Holstein,False,5,youth_unemployment:2020-2024
+youth_2015_2024,DEG0,DE,Thüringen,False,5,youth_unemployment:2020-2024
+youth_2015_2024,DK01,DK,Hovedstaden,True,0,
+youth_2015_2024,DK02,DK,Sjælland,True,0,
+youth_2015_2024,DK03,DK,Syddanmark,True,0,
+youth_2015_2024,DK04,DK,Midtjylland,True,0,
+youth_2015_2024,DK05,DK,Nordjylland,True,0,
+youth_2015_2024,EE00,EE,Eesti,True,0,
+youth_2015_2024,EL30,EL,Attiki,True,0,
+youth_2015_2024,EL41,EL,Voreio Aigaio,False,8,"youth_unemployment:2015-2016,2019-2024"
+youth_2015_2024,EL42,EL,Notio Aigaio,False,8,youth_unemployment:2017-2024
+youth_2015_2024,EL43,EL,Kriti,False,2,"youth_unemployment:2022,2024"
+youth_2015_2024,EL51,EL,"Anatoliki Makedonia, Thraki",True,0,
+youth_2015_2024,EL52,EL,Kentriki Makedonia,True,0,
+youth_2015_2024,EL53,EL,Dytiki Makedonia,False,6,youth_unemployment:2019-2024
+youth_2015_2024,EL54,EL,Ipeiros,False,10,youth_unemployment:2015-2024
+youth_2015_2024,EL61,EL,Thessalia,False,1,youth_unemployment:2024
+youth_2015_2024,EL62,EL,Ionia Nisia,False,10,youth_unemployment:2015-2024
+youth_2015_2024,EL63,EL,Dytiki Elláda,True,0,
+youth_2015_2024,EL64,EL,Sterea Elláda,False,1,youth_unemployment:2024
+youth_2015_2024,EL65,EL,Peloponnisos,False,5,"youth_unemployment:2019-2020,2022-2024"
+youth_2015_2024,ES11,ES,Galicia,True,0,
+youth_2015_2024,ES12,ES,Principado de Asturias,True,0,
+youth_2015_2024,ES13,ES,Cantabria,False,10,youth_unemployment:2015-2024
+youth_2015_2024,ES21,ES,País Vasco,True,0,
+youth_2015_2024,ES22,ES,Comunidad Foral de Navarra,False,3,youth_unemployment:2019-2021
+youth_2015_2024,ES23,ES,La Rioja,False,10,youth_unemployment:2015-2024
+youth_2015_2024,ES24,ES,Aragón,True,0,
+youth_2015_2024,ES30,ES,Comunidad de Madrid,True,0,
+youth_2015_2024,ES41,ES,Castilla y León,True,0,
+youth_2015_2024,ES42,ES,Castilla-La Mancha,True,0,
+youth_2015_2024,ES43,ES,Extremadura,True,0,
+youth_2015_2024,ES51,ES,Cataluña,True,0,
+youth_2015_2024,ES52,ES,Comunitat Valenciana ,True,0,
+youth_2015_2024,ES53,ES,Illes Balears,True,0,
+youth_2015_2024,ES61,ES,Andalucía,True,0,
+youth_2015_2024,ES62,ES,Región de Murcia,True,0,
+youth_2015_2024,ES63,ES,Ciudad de Ceuta,False,10,youth_unemployment:2015-2024
+youth_2015_2024,ES64,ES,Ciudad de Melilla,False,10,youth_unemployment:2015-2024
+youth_2015_2024,ES70,ES,Canarias,True,0,
+youth_2015_2024,FI19,FI,Länsi-Suomi,True,0,
+youth_2015_2024,FI1B,FI,Helsinki-Uusimaa,True,0,
+youth_2015_2024,FI1C,FI,Etelä-Suomi,True,0,
+youth_2015_2024,FI1D,FI,Pohjois- ja Itä-Suomi,True,0,
+youth_2015_2024,FI20,FI,Åland,False,10,youth_unemployment:2015-2024
+youth_2015_2024,FR10,FR,Ile-de-France,True,0,
+youth_2015_2024,FRB0,FR,Centre — Val de Loire,True,0,
+youth_2015_2024,FRC1,FR,Bourgogne,True,0,
+youth_2015_2024,FRC2,FR,Franche-Comté,False,8,youth_unemployment:2017-2024
+youth_2015_2024,FRD1,FR,Basse-Normandie ,False,1,youth_unemployment:2021
+youth_2015_2024,FRD2,FR,Haute-Normandie ,True,0,
+youth_2015_2024,FRE1,FR,Nord-Pas de Calais,True,0,
+youth_2015_2024,FRE2,FR,Picardie,True,0,
+youth_2015_2024,FRF1,FR,Alsace,True,0,
+youth_2015_2024,FRF2,FR,Champagne-Ardenne,True,0,
+youth_2015_2024,FRF3,FR,Lorraine,True,0,
+youth_2015_2024,FRG0,FR,Pays de la Loire,True,0,
+youth_2015_2024,FRH0,FR,Bretagne,True,0,
+youth_2015_2024,FRI1,FR,Aquitaine,True,0,
+youth_2015_2024,FRI2,FR,Limousin,False,10,youth_unemployment:2015-2024
+youth_2015_2024,FRI3,FR,Poitou-Charentes,True,0,
+youth_2015_2024,FRJ1,FR,Languedoc-Roussillon,True,0,
+youth_2015_2024,FRJ2,FR,Midi-Pyrénées,True,0,
+youth_2015_2024,FRK1,FR,Auvergne,False,5,"youth_unemployment:2015-2017,2019-2020"
+youth_2015_2024,FRK2,FR,Rhône-Alpes,True,0,
+youth_2015_2024,FRL0,FR,Provence-Alpes-Côte d’Azur,True,0,
+youth_2015_2024,FRM0,FR,Corse,False,10,youth_unemployment:2015-2024
+youth_2015_2024,FRY1,FR,Guadeloupe,False,5,youth_unemployment:2020-2024
+youth_2015_2024,FRY2,FR,Martinique ,False,9,"youth_unemployment:2015-2017,2019-2024"
+youth_2015_2024,FRY3,FR,Guyane,False,10,youth_unemployment:2015-2024
+youth_2015_2024,FRY4,FR,La Réunion ,True,0,
+youth_2015_2024,FRY5,FR,Mayotte,False,9,"youth_unemployment:2015-2017,2019-2024"
+youth_2015_2024,HR02,HR,Panonska Hrvatska,False,4,"youth_unemployment:2015,2019,2023-2024"
+youth_2015_2024,HR03,HR,Jadranska Hrvatska,False,6,youth_unemployment:2019-2024
+youth_2015_2024,HR05,HR,Grad Zagreb,False,10,youth_unemployment:2015-2024
+youth_2015_2024,HR06,HR,Sjeverna Hrvatska,False,10,youth_unemployment:2015-2024
+youth_2015_2024,HU11,HU,Budapest,False,8,youth_unemployment:2017-2024
+youth_2015_2024,HU12,HU,Pest,False,7,"youth_unemployment:2016-2019,2021-2023"
+youth_2015_2024,HU21,HU,Közép-Dunántúl,False,10,youth_unemployment:2015-2024
+youth_2015_2024,HU22,HU,Nyugat-Dunántúl,False,10,youth_unemployment:2015-2024
+youth_2015_2024,HU23,HU,Dél-Dunántúl,False,6,"youth_unemployment:2016-2018,2020-2022"
+youth_2015_2024,HU31,HU,Észak-Magyarország,False,1,youth_unemployment:2022
+youth_2015_2024,HU32,HU,Észak-Alföld,True,0,
+youth_2015_2024,HU33,HU,Dél-Alföld,False,4,"youth_unemployment:2017-2018,2020,2022"
+youth_2015_2024,IE04,IE,Northern and Western,False,6,youth_unemployment:2019-2024
+youth_2015_2024,IE05,IE,Southern,True,0,
+youth_2015_2024,IE06,IE,Eastern and Midland,True,0,
+youth_2015_2024,ITC1,IT,Piemonte,True,0,
+youth_2015_2024,ITC2,IT,Valle d’Aosta/Vallée d’Aoste,False,10,youth_unemployment:2015-2024
+youth_2015_2024,ITC3,IT,Liguria,True,0,
+youth_2015_2024,ITC4,IT,Lombardia,True,0,
+youth_2015_2024,ITF1,IT,Abruzzo,True,0,
+youth_2015_2024,ITF2,IT,Molise,False,6,"youth_unemployment:2018,2020-2024"
+youth_2015_2024,ITF3,IT,Campania,True,0,
+youth_2015_2024,ITF4,IT,Puglia,True,0,
+youth_2015_2024,ITF5,IT,Basilicata,False,4,youth_unemployment:2021-2024
+youth_2015_2024,ITF6,IT,Calabria,True,0,
+youth_2015_2024,ITG1,IT,Sicilia,True,0,
+youth_2015_2024,ITG2,IT,Sardegna,True,0,
+youth_2015_2024,ITH1,IT,Provincia Autonoma di Bolzano/Bozen,False,10,youth_unemployment:2015-2024
+youth_2015_2024,ITH2,IT,Provincia Autonoma di Trento,False,6,youth_unemployment:2019-2024
+youth_2015_2024,ITH3,IT,Veneto,True,0,
+youth_2015_2024,ITH4,IT,Friuli-Venezia Giulia,False,1,youth_unemployment:2024
+youth_2015_2024,ITH5,IT,Emilia-Romagna,True,0,
+youth_2015_2024,ITI1,IT,Toscana,True,0,
+youth_2015_2024,ITI2,IT,Umbria,False,3,youth_unemployment:2022-2024
+youth_2015_2024,ITI3,IT,Marche,True,0,
+youth_2015_2024,ITI4,IT,Lazio,True,0,
+youth_2015_2024,LT01,LT,Sostinės regionas,False,8,"youth_unemployment:2015-2019,2021-2023"
+youth_2015_2024,LT02,LT,Vidurio ir vakarų Lietuvos regionas ,True,0,
+youth_2015_2024,LU00,LU,Luxembourg,True,0,
+youth_2015_2024,LV00,LV,Latvija,True,0,
+youth_2015_2024,MT00,MT,Malta,True,0,
+youth_2015_2024,NL11,NL,Groningen,True,0,
+youth_2015_2024,NL12,NL,Friesland (NL),True,0,
+youth_2015_2024,NL13,NL,Drenthe,True,0,
+youth_2015_2024,NL21,NL,Overijssel,True,0,
+youth_2015_2024,NL22,NL,Gelderland,True,0,
+youth_2015_2024,NL23,NL,Flevoland,True,0,
+youth_2015_2024,NL32,NL,Noord-Holland,True,0,
+youth_2015_2024,NL34,NL,Zeeland,False,9,youth_unemployment:2016-2024
+youth_2015_2024,NL35,NL,Utrecht,False,4,youth_unemployment:2015-2018
+youth_2015_2024,NL36,NL,Zuid-Holland,False,4,youth_unemployment:2015-2018
+youth_2015_2024,NL41,NL,Noord-Brabant,True,0,
+youth_2015_2024,NL42,NL,Limburg (NL),True,0,
+youth_2015_2024,PL21,PL,Małopolskie,False,7,youth_unemployment:2018-2024
+youth_2015_2024,PL22,PL,Śląskie,False,6,youth_unemployment:2019-2024
+youth_2015_2024,PL41,PL,Wielkopolskie,False,8,youth_unemployment:2017-2024
+youth_2015_2024,PL42,PL,Zachodniopomorskie,False,10,youth_unemployment:2015-2024
+youth_2015_2024,PL43,PL,Lubuskie,False,10,youth_unemployment:2015-2024
+youth_2015_2024,PL51,PL,Dolnośląskie,False,9,youth_unemployment:2016-2024
+youth_2015_2024,PL52,PL,Opolskie,False,10,youth_unemployment:2015-2024
+youth_2015_2024,PL61,PL,Kujawsko-pomorskie,False,8,youth_unemployment:2017-2024
+youth_2015_2024,PL62,PL,Warmińsko-mazurskie,False,10,youth_unemployment:2015-2024
+youth_2015_2024,PL63,PL,Pomorskie,False,8,youth_unemployment:2017-2024
+youth_2015_2024,PL71,PL,Łódzkie,False,9,youth_unemployment:2016-2024
+youth_2015_2024,PL72,PL,Świętokrzyskie,False,9,youth_unemployment:2016-2024
+youth_2015_2024,PL81,PL,Lubelskie,False,7,youth_unemployment:2018-2024
+youth_2015_2024,PL82,PL,Podkarpackie,False,7,youth_unemployment:2018-2024
+youth_2015_2024,PL84,PL,Podlaskie,False,10,youth_unemployment:2015-2024
+youth_2015_2024,PL91,PL,Warszawski stołeczny,False,10,youth_unemployment:2015-2024
+youth_2015_2024,PL92,PL,Mazowiecki regionalny,False,7,youth_unemployment:2018-2024
+youth_2015_2024,PT11,PT,Norte,True,0,
+youth_2015_2024,PT15,PT,Algarve,False,9,youth_unemployment:2016-2024
+youth_2015_2024,PT19,PT,Centro (PT),False,5,"youth_unemployment:2015-2018,2021"
+youth_2015_2024,PT1A,PT,Grande Lisboa,False,4,youth_unemployment:2015-2018
+youth_2015_2024,PT1B,PT,Península de Setúbal,False,8,"youth_unemployment:2015-2018,2021-2024"
+youth_2015_2024,PT1C,PT,Alentejo,False,10,youth_unemployment:2015-2024
+youth_2015_2024,PT1D,PT,Oeste e Vale do Tejo,False,9,"youth_unemployment:2015-2019,2021-2024"
+youth_2015_2024,PT20,PT,Região Autónoma dos Açores,False,10,youth_unemployment:2015-2024
+youth_2015_2024,PT30,PT,Região Autónoma da Madeira,False,10,youth_unemployment:2015-2024
+youth_2015_2024,RO11,RO,Nord-Vest,False,8,youth_unemployment:2016-2023
+youth_2015_2024,RO12,RO,Centru,False,1,youth_unemployment:2023
+youth_2015_2024,RO21,RO,Nord-Est,True,0,
+youth_2015_2024,RO22,RO,Sud-Est,True,0,
+youth_2015_2024,RO31,RO,Sud-Muntenia,True,0,
+youth_2015_2024,RO32,RO,Bucureşti-Ilfov,False,10,youth_unemployment:2015-2024
+youth_2015_2024,RO41,RO,Sud-Vest Oltenia,False,3,"youth_unemployment:2018,2020,2023"
+youth_2015_2024,RO42,RO,Vest,False,10,youth_unemployment:2015-2024
+youth_2015_2024,SE11,SE,Stockholm,True,0,
+youth_2015_2024,SE12,SE,Östra Mellansverige,True,0,
+youth_2015_2024,SE21,SE,Småland med öarna,True,0,
+youth_2015_2024,SE22,SE,Sydsverige,True,0,
+youth_2015_2024,SE23,SE,Västsverige,True,0,
+youth_2015_2024,SE31,SE,Norra Mellansverige,True,0,
+youth_2015_2024,SE32,SE,Mellersta Norrland,False,6,youth_unemployment:2019-2024
+youth_2015_2024,SE33,SE,Övre Norrland,False,3,"youth_unemployment:2019,2023-2024"
+youth_2015_2024,SI03,SI,Vzhodna Slovenija,False,5,"youth_unemployment:2019,2021-2024"
+youth_2015_2024,SI04,SI,Zahodna Slovenija,False,8,youth_unemployment:2017-2024
+youth_2015_2024,SK01,SK,Bratislavský kraj,False,10,youth_unemployment:2015-2024
+youth_2015_2024,SK02,SK,Západné Slovensko,False,4,youth_unemployment:2021-2024
+youth_2015_2024,SK03,SK,Stredné Slovensko,False,4,youth_unemployment:2021-2024
+youth_2015_2024,SK04,SK,Východné Slovensko,True,0,
+gdp_income_2000_2023,AT11,AT,Burgenland,True,0,
+gdp_income_2000_2023,AT12,AT,Niederösterreich,True,0,
+gdp_income_2000_2023,AT13,AT,Wien,True,0,
+gdp_income_2000_2023,AT21,AT,Kärnten,True,0,
+gdp_income_2000_2023,AT22,AT,Steiermark,True,0,
+gdp_income_2000_2023,AT31,AT,Oberösterreich,True,0,
+gdp_income_2000_2023,AT32,AT,Salzburg,True,0,
+gdp_income_2000_2023,AT33,AT,Tirol,True,0,
+gdp_income_2000_2023,AT34,AT,Vorarlberg,True,0,
+gdp_income_2000_2023,BE10,BE,Région de Bruxelles-Capitale/ Brussels Hoofdstedelijk Gewest,False,3,gdp_pps:2000-2002
+gdp_income_2000_2023,BE21,BE,Prov. Antwerpen,False,3,gdp_pps:2000-2002
+gdp_income_2000_2023,BE22,BE,Prov. Limburg (BE),False,3,gdp_pps:2000-2002
+gdp_income_2000_2023,BE23,BE,Prov. Oost-Vlaanderen,False,3,gdp_pps:2000-2002
+gdp_income_2000_2023,BE24,BE,Prov. Vlaams-Brabant,False,3,gdp_pps:2000-2002
+gdp_income_2000_2023,BE25,BE,Prov. West-Vlaanderen,False,3,gdp_pps:2000-2002
+gdp_income_2000_2023,BE31,BE,Prov. Brabant wallon,False,3,gdp_pps:2000-2002
+gdp_income_2000_2023,BE32,BE,Prov. Hainaut,False,3,gdp_pps:2000-2002
+gdp_income_2000_2023,BE33,BE,Prov. Liège,False,3,gdp_pps:2000-2002
+gdp_income_2000_2023,BE34,BE,Prov. Luxembourg (BE),False,3,gdp_pps:2000-2002
+gdp_income_2000_2023,BE35,BE,Prov. Namur,False,3,gdp_pps:2000-2002
+gdp_income_2000_2023,BG31,BG,Severozapaden,True,0,
+gdp_income_2000_2023,BG32,BG,Severen tsentralen,True,0,
+gdp_income_2000_2023,BG33,BG,Severoiztochen,True,0,
+gdp_income_2000_2023,BG34,BG,Yugoiztochen,True,0,
+gdp_income_2000_2023,BG41,BG,Yugozapaden,True,0,
+gdp_income_2000_2023,BG42,BG,Yuzhen tsentralen,True,0,
+gdp_income_2000_2023,CY00,CY,Kýpros,True,0,
+gdp_income_2000_2023,CZ01,CZ,Praha,True,0,
+gdp_income_2000_2023,CZ02,CZ,Střední Čechy,True,0,
+gdp_income_2000_2023,CZ03,CZ,Jihozápad,True,0,
+gdp_income_2000_2023,CZ04,CZ,Severozápad,True,0,
+gdp_income_2000_2023,CZ05,CZ,Severovýchod,True,0,
+gdp_income_2000_2023,CZ06,CZ,Jihovýchod,True,0,
+gdp_income_2000_2023,CZ07,CZ,Střední Morava,True,0,
+gdp_income_2000_2023,CZ08,CZ,Moravskoslezsko,True,0,
+gdp_income_2000_2023,DE11,DE,Stuttgart,False,12,household_income:2000-2011
+gdp_income_2000_2023,DE12,DE,Karlsruhe,False,12,household_income:2000-2011
+gdp_income_2000_2023,DE13,DE,Freiburg,False,12,household_income:2000-2011
+gdp_income_2000_2023,DE14,DE,Tübingen,False,12,household_income:2000-2011
+gdp_income_2000_2023,DE21,DE,Oberbayern,False,12,household_income:2000-2011
+gdp_income_2000_2023,DE22,DE,Niederbayern,False,12,household_income:2000-2011
+gdp_income_2000_2023,DE23,DE,Oberpfalz,False,12,household_income:2000-2011
+gdp_income_2000_2023,DE24,DE,Oberfranken,False,12,household_income:2000-2011
+gdp_income_2000_2023,DE25,DE,Mittelfranken,False,12,household_income:2000-2011
+gdp_income_2000_2023,DE26,DE,Unterfranken,False,12,household_income:2000-2011
+gdp_income_2000_2023,DE27,DE,Schwaben,False,12,household_income:2000-2011
+gdp_income_2000_2023,DE30,DE,Berlin,False,12,household_income:2000-2011
+gdp_income_2000_2023,DE40,DE,Brandenburg,False,12,household_income:2000-2011
+gdp_income_2000_2023,DE50,DE,Bremen,False,12,household_income:2000-2011
+gdp_income_2000_2023,DE60,DE,Hamburg,False,12,household_income:2000-2011
+gdp_income_2000_2023,DE71,DE,Darmstadt,False,12,household_income:2000-2011
+gdp_income_2000_2023,DE72,DE,Gießen,False,12,household_income:2000-2011
+gdp_income_2000_2023,DE73,DE,Kassel,False,12,household_income:2000-2011
+gdp_income_2000_2023,DE80,DE,Mecklenburg-Vorpommern,False,12,household_income:2000-2011
+gdp_income_2000_2023,DE91,DE,Braunschweig,False,12,household_income:2000-2011
+gdp_income_2000_2023,DE92,DE,Hannover,False,12,household_income:2000-2011
+gdp_income_2000_2023,DE93,DE,Lüneburg,False,12,household_income:2000-2011
+gdp_income_2000_2023,DE94,DE,Weser-Ems,False,12,household_income:2000-2011
+gdp_income_2000_2023,DEA1,DE,Düsseldorf,False,12,household_income:2000-2011
+gdp_income_2000_2023,DEA2,DE,Köln,False,12,household_income:2000-2011
+gdp_income_2000_2023,DEA3,DE,Münster,False,12,household_income:2000-2011
+gdp_income_2000_2023,DEA4,DE,Detmold,False,12,household_income:2000-2011
+gdp_income_2000_2023,DEA5,DE,Arnsberg,False,12,household_income:2000-2011
+gdp_income_2000_2023,DEB1,DE,Koblenz,False,12,household_income:2000-2011
+gdp_income_2000_2023,DEB2,DE,Trier,False,12,household_income:2000-2011
+gdp_income_2000_2023,DEB3,DE,Rheinhessen-Pfalz,False,12,household_income:2000-2011
+gdp_income_2000_2023,DEC0,DE,Saarland,False,12,household_income:2000-2011
+gdp_income_2000_2023,DED2,DE,Dresden,False,12,household_income:2000-2011
+gdp_income_2000_2023,DED4,DE,Chemnitz,False,12,household_income:2000-2011
+gdp_income_2000_2023,DED5,DE,Leipzig,False,12,household_income:2000-2011
+gdp_income_2000_2023,DEE0,DE,Sachsen-Anhalt,False,12,household_income:2000-2011
+gdp_income_2000_2023,DEF0,DE,Schleswig-Holstein,False,12,household_income:2000-2011
+gdp_income_2000_2023,DEG0,DE,Thüringen,False,12,household_income:2000-2011
+gdp_income_2000_2023,DK01,DK,Hovedstaden,True,0,
+gdp_income_2000_2023,DK02,DK,Sjælland,True,0,
+gdp_income_2000_2023,DK03,DK,Syddanmark,True,0,
+gdp_income_2000_2023,DK04,DK,Midtjylland,True,0,
+gdp_income_2000_2023,DK05,DK,Nordjylland,True,0,
+gdp_income_2000_2023,EE00,EE,Eesti,True,0,
+gdp_income_2000_2023,EL30,EL,Attiki,True,0,
+gdp_income_2000_2023,EL41,EL,Voreio Aigaio,True,0,
+gdp_income_2000_2023,EL42,EL,Notio Aigaio,True,0,
+gdp_income_2000_2023,EL43,EL,Kriti,True,0,
+gdp_income_2000_2023,EL51,EL,"Anatoliki Makedonia, Thraki",True,0,
+gdp_income_2000_2023,EL52,EL,Kentriki Makedonia,True,0,
+gdp_income_2000_2023,EL53,EL,Dytiki Makedonia,True,0,
+gdp_income_2000_2023,EL54,EL,Ipeiros,True,0,
+gdp_income_2000_2023,EL61,EL,Thessalia,True,0,
+gdp_income_2000_2023,EL62,EL,Ionia Nisia,True,0,
+gdp_income_2000_2023,EL63,EL,Dytiki Elláda,True,0,
+gdp_income_2000_2023,EL64,EL,Sterea Elláda,True,0,
+gdp_income_2000_2023,EL65,EL,Peloponnisos,True,0,
+gdp_income_2000_2023,ES11,ES,Galicia,True,0,
+gdp_income_2000_2023,ES12,ES,Principado de Asturias,True,0,
+gdp_income_2000_2023,ES13,ES,Cantabria,True,0,
+gdp_income_2000_2023,ES21,ES,País Vasco,True,0,
+gdp_income_2000_2023,ES22,ES,Comunidad Foral de Navarra,True,0,
+gdp_income_2000_2023,ES23,ES,La Rioja,True,0,
+gdp_income_2000_2023,ES24,ES,Aragón,True,0,
+gdp_income_2000_2023,ES30,ES,Comunidad de Madrid,True,0,
+gdp_income_2000_2023,ES41,ES,Castilla y León,True,0,
+gdp_income_2000_2023,ES42,ES,Castilla-La Mancha,True,0,
+gdp_income_2000_2023,ES43,ES,Extremadura,True,0,
+gdp_income_2000_2023,ES51,ES,Cataluña,True,0,
+gdp_income_2000_2023,ES52,ES,Comunitat Valenciana ,True,0,
+gdp_income_2000_2023,ES53,ES,Illes Balears,True,0,
+gdp_income_2000_2023,ES61,ES,Andalucía,True,0,
+gdp_income_2000_2023,ES62,ES,Región de Murcia,True,0,
+gdp_income_2000_2023,ES63,ES,Ciudad de Ceuta,True,0,
+gdp_income_2000_2023,ES64,ES,Ciudad de Melilla,True,0,
+gdp_income_2000_2023,ES70,ES,Canarias,True,0,
+gdp_income_2000_2023,FI19,FI,Länsi-Suomi,True,0,
+gdp_income_2000_2023,FI1B,FI,Helsinki-Uusimaa,True,0,
+gdp_income_2000_2023,FI1C,FI,Etelä-Suomi,True,0,
+gdp_income_2000_2023,FI1D,FI,Pohjois- ja Itä-Suomi,True,0,
+gdp_income_2000_2023,FI20,FI,Åland,True,0,
+gdp_income_2000_2023,FR10,FR,Ile-de-France,True,0,
+gdp_income_2000_2023,FRB0,FR,Centre — Val de Loire,True,0,
+gdp_income_2000_2023,FRC1,FR,Bourgogne,True,0,
+gdp_income_2000_2023,FRC2,FR,Franche-Comté,True,0,
+gdp_income_2000_2023,FRD1,FR,Basse-Normandie ,True,0,
+gdp_income_2000_2023,FRD2,FR,Haute-Normandie ,True,0,
+gdp_income_2000_2023,FRE1,FR,Nord-Pas de Calais,True,0,
+gdp_income_2000_2023,FRE2,FR,Picardie,True,0,
+gdp_income_2000_2023,FRF1,FR,Alsace,True,0,
+gdp_income_2000_2023,FRF2,FR,Champagne-Ardenne,True,0,
+gdp_income_2000_2023,FRF3,FR,Lorraine,True,0,
+gdp_income_2000_2023,FRG0,FR,Pays de la Loire,True,0,
+gdp_income_2000_2023,FRH0,FR,Bretagne,True,0,
+gdp_income_2000_2023,FRI1,FR,Aquitaine,True,0,
+gdp_income_2000_2023,FRI2,FR,Limousin,True,0,
+gdp_income_2000_2023,FRI3,FR,Poitou-Charentes,True,0,
+gdp_income_2000_2023,FRJ1,FR,Languedoc-Roussillon,True,0,
+gdp_income_2000_2023,FRJ2,FR,Midi-Pyrénées,True,0,
+gdp_income_2000_2023,FRK1,FR,Auvergne,True,0,
+gdp_income_2000_2023,FRK2,FR,Rhône-Alpes,True,0,
+gdp_income_2000_2023,FRL0,FR,Provence-Alpes-Côte d’Azur,True,0,
+gdp_income_2000_2023,FRM0,FR,Corse,True,0,
+gdp_income_2000_2023,FRY1,FR,Guadeloupe,True,0,
+gdp_income_2000_2023,FRY2,FR,Martinique ,True,0,
+gdp_income_2000_2023,FRY3,FR,Guyane,True,0,
+gdp_income_2000_2023,FRY4,FR,La Réunion ,True,0,
+gdp_income_2000_2023,FRY5,FR,Mayotte,False,28,gdp_pps:2000-2013;household_income:2000-2013
+gdp_income_2000_2023,HR02,HR,Panonska Hrvatska,True,0,
+gdp_income_2000_2023,HR03,HR,Jadranska Hrvatska,True,0,
+gdp_income_2000_2023,HR05,HR,Grad Zagreb,True,0,
+gdp_income_2000_2023,HR06,HR,Sjeverna Hrvatska,True,0,
+gdp_income_2000_2023,HU11,HU,Budapest,True,0,
+gdp_income_2000_2023,HU12,HU,Pest,True,0,
+gdp_income_2000_2023,HU21,HU,Közép-Dunántúl,True,0,
+gdp_income_2000_2023,HU22,HU,Nyugat-Dunántúl,True,0,
+gdp_income_2000_2023,HU23,HU,Dél-Dunántúl,True,0,
+gdp_income_2000_2023,HU31,HU,Észak-Magyarország,True,0,
+gdp_income_2000_2023,HU32,HU,Észak-Alföld,True,0,
+gdp_income_2000_2023,HU33,HU,Dél-Alföld,True,0,
+gdp_income_2000_2023,IE04,IE,Northern and Western,True,0,
+gdp_income_2000_2023,IE05,IE,Southern,True,0,
+gdp_income_2000_2023,IE06,IE,Eastern and Midland,True,0,
+gdp_income_2000_2023,ITC1,IT,Piemonte,True,0,
+gdp_income_2000_2023,ITC2,IT,Valle d’Aosta/Vallée d’Aoste,True,0,
+gdp_income_2000_2023,ITC3,IT,Liguria,True,0,
+gdp_income_2000_2023,ITC4,IT,Lombardia,True,0,
+gdp_income_2000_2023,ITF1,IT,Abruzzo,True,0,
+gdp_income_2000_2023,ITF2,IT,Molise,True,0,
+gdp_income_2000_2023,ITF3,IT,Campania,True,0,
+gdp_income_2000_2023,ITF4,IT,Puglia,True,0,
+gdp_income_2000_2023,ITF5,IT,Basilicata,True,0,
+gdp_income_2000_2023,ITF6,IT,Calabria,True,0,
+gdp_income_2000_2023,ITG1,IT,Sicilia,True,0,
+gdp_income_2000_2023,ITG2,IT,Sardegna,True,0,
+gdp_income_2000_2023,ITH1,IT,Provincia Autonoma di Bolzano/Bozen,True,0,
+gdp_income_2000_2023,ITH2,IT,Provincia Autonoma di Trento,True,0,
+gdp_income_2000_2023,ITH3,IT,Veneto,True,0,
+gdp_income_2000_2023,ITH4,IT,Friuli-Venezia Giulia,True,0,
+gdp_income_2000_2023,ITH5,IT,Emilia-Romagna,True,0,
+gdp_income_2000_2023,ITI1,IT,Toscana,True,0,
+gdp_income_2000_2023,ITI2,IT,Umbria,True,0,
+gdp_income_2000_2023,ITI3,IT,Marche,True,0,
+gdp_income_2000_2023,ITI4,IT,Lazio,True,0,
+gdp_income_2000_2023,LT01,LT,Sostinės regionas,True,0,
+gdp_income_2000_2023,LT02,LT,Vidurio ir vakarų Lietuvos regionas ,True,0,
+gdp_income_2000_2023,LU00,LU,Luxembourg,True,0,
+gdp_income_2000_2023,LV00,LV,Latvija,True,0,
+gdp_income_2000_2023,MT00,MT,Malta,True,0,
+gdp_income_2000_2023,NL11,NL,Groningen,True,0,
+gdp_income_2000_2023,NL12,NL,Friesland (NL),True,0,
+gdp_income_2000_2023,NL13,NL,Drenthe,True,0,
+gdp_income_2000_2023,NL21,NL,Overijssel,True,0,
+gdp_income_2000_2023,NL22,NL,Gelderland,True,0,
+gdp_income_2000_2023,NL23,NL,Flevoland,True,0,
+gdp_income_2000_2023,NL32,NL,Noord-Holland,True,0,
+gdp_income_2000_2023,NL34,NL,Zeeland,True,0,
+gdp_income_2000_2023,NL35,NL,Utrecht,True,0,
+gdp_income_2000_2023,NL36,NL,Zuid-Holland,True,0,
+gdp_income_2000_2023,NL41,NL,Noord-Brabant,True,0,
+gdp_income_2000_2023,NL42,NL,Limburg (NL),True,0,
+gdp_income_2000_2023,PL21,PL,Małopolskie,True,0,
+gdp_income_2000_2023,PL22,PL,Śląskie,True,0,
+gdp_income_2000_2023,PL41,PL,Wielkopolskie,True,0,
+gdp_income_2000_2023,PL42,PL,Zachodniopomorskie,True,0,
+gdp_income_2000_2023,PL43,PL,Lubuskie,True,0,
+gdp_income_2000_2023,PL51,PL,Dolnośląskie,True,0,
+gdp_income_2000_2023,PL52,PL,Opolskie,True,0,
+gdp_income_2000_2023,PL61,PL,Kujawsko-pomorskie,True,0,
+gdp_income_2000_2023,PL62,PL,Warmińsko-mazurskie,True,0,
+gdp_income_2000_2023,PL63,PL,Pomorskie,True,0,
+gdp_income_2000_2023,PL71,PL,Łódzkie,True,0,
+gdp_income_2000_2023,PL72,PL,Świętokrzyskie,True,0,
+gdp_income_2000_2023,PL81,PL,Lubelskie,True,0,
+gdp_income_2000_2023,PL82,PL,Podkarpackie,True,0,
+gdp_income_2000_2023,PL84,PL,Podlaskie,True,0,
+gdp_income_2000_2023,PL91,PL,Warszawski stołeczny,True,0,
+gdp_income_2000_2023,PL92,PL,Mazowiecki regionalny,True,0,
+gdp_income_2000_2023,PT11,PT,Norte,True,0,
+gdp_income_2000_2023,PT15,PT,Algarve,True,0,
+gdp_income_2000_2023,PT19,PT,Centro (PT),True,0,
+gdp_income_2000_2023,PT1A,PT,Grande Lisboa,True,0,
+gdp_income_2000_2023,PT1B,PT,Península de Setúbal,True,0,
+gdp_income_2000_2023,PT1C,PT,Alentejo,True,0,
+gdp_income_2000_2023,PT1D,PT,Oeste e Vale do Tejo,True,0,
+gdp_income_2000_2023,PT20,PT,Região Autónoma dos Açores,True,0,
+gdp_income_2000_2023,PT30,PT,Região Autónoma da Madeira,True,0,
+gdp_income_2000_2023,RO11,RO,Nord-Vest,False,20,gdp_pps:2002-2011;household_income:2002-2011
+gdp_income_2000_2023,RO12,RO,Centru,False,20,gdp_pps:2002-2011;household_income:2002-2011
+gdp_income_2000_2023,RO21,RO,Nord-Est,False,20,gdp_pps:2002-2011;household_income:2002-2011
+gdp_income_2000_2023,RO22,RO,Sud-Est,False,20,gdp_pps:2002-2011;household_income:2002-2011
+gdp_income_2000_2023,RO31,RO,Sud-Muntenia,False,20,gdp_pps:2002-2011;household_income:2002-2011
+gdp_income_2000_2023,RO32,RO,Bucureşti-Ilfov,False,20,gdp_pps:2002-2011;household_income:2002-2011
+gdp_income_2000_2023,RO41,RO,Sud-Vest Oltenia,False,20,gdp_pps:2002-2011;household_income:2002-2011
+gdp_income_2000_2023,RO42,RO,Vest,False,20,gdp_pps:2002-2011;household_income:2002-2011
+gdp_income_2000_2023,SE11,SE,Stockholm,True,0,
+gdp_income_2000_2023,SE12,SE,Östra Mellansverige,True,0,
+gdp_income_2000_2023,SE21,SE,Småland med öarna,True,0,
+gdp_income_2000_2023,SE22,SE,Sydsverige,True,0,
+gdp_income_2000_2023,SE23,SE,Västsverige,True,0,
+gdp_income_2000_2023,SE31,SE,Norra Mellansverige,True,0,
+gdp_income_2000_2023,SE32,SE,Mellersta Norrland,True,0,
+gdp_income_2000_2023,SE33,SE,Övre Norrland,True,0,
+gdp_income_2000_2023,SI03,SI,Vzhodna Slovenija,True,0,
+gdp_income_2000_2023,SI04,SI,Zahodna Slovenija,True,0,
+gdp_income_2000_2023,SK01,SK,Bratislavský kraj,True,0,
+gdp_income_2000_2023,SK02,SK,Západné Slovensko,True,0,
+gdp_income_2000_2023,SK03,SK,Stredné Slovensko,True,0,
+gdp_income_2000_2023,SK04,SK,Východné Slovensko,True,0,

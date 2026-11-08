@@ -1,0 +1,104 @@
+{
+  "files": [
+    {
+      "variable": "nuts2_2024",
+      "dataset": "GISCO",
+      "file": "nuts2_2024.geojson.gz",
+      "url": "https://gisco-services.ec.europa.eu/distribution/v2/nuts/geojson/NUTS_RG_20M_2024_4326_LEVL_2.geojson",
+      "retrieved_utc": "2026-11-08T17:05:58Z",
+      "updated": null,
+      "sha256": "ab66d71cf96de869e3fa9157a2ba6fb9445ce00f09c091cfac57f252bc1d550c",
+      "bytes": 674249
+    },
+    {
+      "variable": "gdp_pps",
+      "dataset": "nama_10r_2gdp",
+      "file": "gdp_pps.json.gz",
+      "url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/nama_10r_2gdp?lang=en&freq=A&unit=PPS_EU27_2020_HAB",
+      "retrieved_utc": "2026-11-08T17:05:58Z",
+      "updated": "2026-02-10T11:00:00+0100",
+      "sha256": "d1c5956781b91fd60a25bd312b4f6e25de546478756fc11cf2d429a802bd8c41",
+      "bytes": 164149
+    },
+    {
+      "variable": "gdp_index_pub",
+      "dataset": "nama_10r_2gdp",
+      "file": "gdp_index_pub.json.gz",
+      "url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/nama_10r_2gdp?lang=en&freq=A&unit=PPS_HAB_EU27_2020",
+      "retrieved_utc": "2026-11-08T17:05:59Z",
+      "updated": "2026-02-10T11:00:00+0100",
+      "sha256": "12bec7b160509fe448692e34fbf06350e964a1792531128905d85a644b87e783",
+      "bytes": 137943
+    },
+    {
+      "variable": "gdp_eur",
+      "dataset": "nama_10r_2gdp",
+      "file": "gdp_eur.json.gz",
+      "url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/nama_10r_2gdp?lang=en&freq=A&unit=EUR_HAB",
+      "retrieved_utc": "2026-11-08T17:05:59Z",
+      "updated": "2026-02-10T11:00:00+0100",
+      "sha256": "ba8c28b47da5bb5d4f19ecaef75cc106bdf0c7637dabdd49010505c821bdfebb",
+      "bytes": 162796
+    },
+    {
+      "variable": "real_gdp",
+      "dataset": "nama_10r_2gvagr",
+      "file": "real_gdp.json.gz",
+      "url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/nama_10r_2gvagr?lang=en&freq=A&na_item=B1GQ",
+      "retrieved_utc": "2026-11-08T17:05:59Z",
+      "updated": "2026-03-23T23:00:00+0100",
+      "sha256": "fa7ce274e19201670f68d94944ff4243f2423bc3c7a67efafb1ed429233710f2",
+      "bytes": 439028
+    },
+    {
+      "variable": "population",
+      "dataset": "nama_10r_3popgdp",
+      "file": "population.json.gz",
+      "url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/nama_10r_3popgdp?lang=en&freq=A",
+      "retrieved_utc": "2026-11-08T17:06:00Z",
+      "updated": "2026-02-10T11:00:00+0100",
+      "sha256": "7160833302e89f71cbf8cd3f80764c1ebedd34e16bf0b060ed08c308385aa232",
+      "bytes": 715253
+    },
+    {
+      "variable": "employment",
+      "dataset": "lfst_r_lfe2emprt",
+      "file": "employment.json.gz",
+      "url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/lfst_r_lfe2emprt?lang=en&freq=A&unit=PC&age=Y20-64&sex=T",
+      "retrieved_utc": "2026-11-08T17:06:00Z",
+      "updated": "2026-10-30T23:00:00+0100",
+      "sha256": "73b512bbbe5c20b773e8349f2518d37f2c7c7b1c261e7a0bf2d201ab4df0ba68",
+      "bytes": 197833
+    },
+    {
+      "variable": "youth_unemployment",
+      "dataset": "lfst_r_lfu3rt",
+      "file": "youth_unemployment.json.gz",
+      "url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/lfst_r_lfu3rt?lang=en&freq=A&unit=PC&age=Y15-24&sex=T&isced11=TOTAL",
+      "retrieved_utc": "2026-11-08T17:06:01Z",
+      "updated": "2026-10-30T23:00:00+0100",
+      "sha256": "8bd878b466cc76da0a19aec5862524c2947c77e31dd4db91e818e5d891f5d0c2",
+      "bytes": 204678
+    },
+    {
+      "variable": "household_income",
+      "dataset": "nama_10r_2hhinc",
+      "file": "household_income.json.gz",
+      "url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/nama_10r_2hhinc?lang=en&freq=A&na_item=B6N&direct=BAL",
+      "retrieved_utc": "2026-11-08T17:06:01Z",
+      "updated": "2026-05-20T23:00:00+0200",
+      "sha256": "eaf9f177ace2caa3907e45085a26c38cfcd4ed4a90dfe07cf3c22eebdb7ee267",
+      "bytes": 706055
+    },
+    {
+      "variable": "gva_2000",
+      "dataset": "nama_10r_3gva",
+      "file": "gva_2000.json.gz",
+      "url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/nama_10r_3gva?lang=en&freq=A&unit=CP_MEUR&time=2000",
+      "retrieved_utc": "2026-11-08T17:06:02Z",
+      "updated": "2026-03-23T23:00:00+0100",
+      "sha256": "3ff3bf52151fdc44a2df41ae2aa45a7fa6b98135b81f209407332111e8615068",
+      "bytes": 364233
+    }
+  ]
+}
